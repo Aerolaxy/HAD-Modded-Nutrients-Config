@@ -32,13 +32,16 @@ def json_list_usage(input_json_list) -> list:
         item = dict(item)
         if "values" in item.keys():
             try:
-                output_list.append(item["values"])
+                if "id" in item["values"][0].keys():
+                    output_list.append(item["values"][0]["id"])
             except Exception as e:
-                print(e)
+                output_list.append(item["values"])
 
     return output_list
 
 
 json_list = traversal_json_in_folder(directory_path)
 list_out = json_list_usage(json_list)
-print(list_out)
+with open('example.txt', 'w') as f:
+    for i in list_out:
+        f.write(str(i)+"\r\n")

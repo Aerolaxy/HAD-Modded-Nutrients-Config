@@ -1,0 +1,1916 @@
+aether:aerbunny
+
+minecraft:bat
+
+aether:mimic
+
+aether:moa
+
+aether:zanite_axe
+
+aetherdelight:holystone_knife
+
+aether_redux:blightwillow_door
+
+aether_redux:cloudcap_door
+
+deep_aether:conberry_door
+
+aether_redux:crystal_door
+
+aether_redux:fieldsprout_door
+
+aether_redux:glacia_door
+
+deep_aether:golden_swet_ball
+
+#forge:tools/knives
+
+deep_aether:roseroot_door
+
+aether:skyroot_door
+
+aether_redux:springshroom_door
+
+deep_aether:sunroot_door
+
+deep_aether:yagroot_door
+
+deep_aether:blue_squash_slice
+
+aether:pig_slayer
+
+aether:blue_berry
+
+deep_aether:cooked_quail
+
+#forge:cooked_fishes/salmon
+
+deep_aether:quail_egg
+
+aether:skyroot_milk_bucket
+
+deep_aether:lightcap_mushrooms
+
+deep_aether:raw_quail
+
+#forge:raw_fishes/salmon
+
+deep_aether:blue_squash_slice
+
+deep_aether:cooked_aerglow_fish
+
+deep_aether:raw_aerglow_fish
+
+aether:pig_slayer
+
+['aetherdelight:aechor_petal_crate', 'aetherdelight:blue_berry_crate', 'aetherdelight:enchanted_berry_crate', 'aetherdelight:white_apple_crate', 'aetherdelight:goldenleaf_crate', 'aetherdelight:quickroot_crate', 'aetherdelight:lightroot_crate', 'aetherdelight:chromaberry_crate']
+
+['aetherdelight:aether_grass_bale']
+
+['alexsdelight:cooked_bunfungus_drumstick', 'alexsdelight:cooked_bunfungus']
+
+['alexsdelight:cooked_kangaroo_shank', 'alexsmobs:cooked_kangaroo_meat']
+
+aquaculture:bayad
+
+aquaculture:atlantic_halibut
+
+aquaculture:boulti
+
+aquaculture:atlantic_cod
+
+aquaculture:arapaima
+
+aquaculture:red_grouper
+
+aquaculture:pacific_halibut
+
+aquaculture:blackfish
+
+farmersdelight:cod_roll
+
+farmersdelight:kelp_roll_slice
+
+aquaculturedelight:neptunium_knife
+
+#aquaculture:turtle
+
+#aquaculturedelight:turtles
+
+aquaculturedelight:neptunium_knife
+
+aquaculture:frog_legs_cooked
+
+#forge:raw_fishes/cod
+
+aquaculture:frog_legs_raw
+
+aquaculture:smallmouth_bass
+
+aquaculture:carp
+
+aquaculture:catfish
+
+aquaculture:atlantic_cod
+
+aquaculture:atlantic_halibut
+
+aquaculture:atlantic_herring
+
+aquaculture:piranha
+
+aquaculture:pollock
+
+aquaculture:pink_salmon
+
+aquaculture:tuna
+
+aquaculturedelight:neptunium_knife
+
+['barbequesdelight:grilled_cod_skewer', 'barbequesdelight:grilled_salmon_skewer', 'barbequesdelight:grilled_chicken_skewer', 'barbequesdelight:grilled_mushroom_skewer', 'barbequesdelight:grilled_beef_skewer', 'barbequesdelight:grilled_lamb_skewer', 'barbequesdelight:grilled_rabbit_skewer', 'barbequesdelight:grilled_pork_sausage_skewer', 'barbequesdelight:grilled_potato_skewer']
+
+['barbequesdelight:raw_cod_skewer', 'barbequesdelight:raw_salmon_skewer', 'barbequesdelight:raw_chicken_skewer', 'barbequesdelight:raw_mushroom_skewer', 'barbequesdelight:raw_beef_skewer', 'barbequesdelight:raw_lamb_skewer', 'barbequesdelight:raw_rabbit_skewer', 'barbequesdelight:raw_pork_sausage_skewer', 'barbequesdelight:raw_potato_skewer']
+
+['barbequesdelight:grill', 'barbequesdelight:basin']
+
+['barbequesdelight:basin']
+
+['barbequesdelight:grill']
+
+['brewinandchewin:scarlet_cheese_wedge', 'brewinandchewin:flaxen_cheese_wedge']
+
+['minecraft:cooked_beef', 'minecraft:cooked_porkchop', {'id': 'farmersdelight:beef_patty', 'required': False}, {'id': 'farmersdelight:cooked_bacon', 'required': False}, {'id': '', 'required': False}]
+
+['caupona:stone_brick_caliduct', 'caupona:brick_caliduct', 'caupona:opus_incertum_caliduct', 'caupona:opus_latericium_caliduct']
+
+['caupona:mud_chimney_flue', 'caupona:stone_brick_chimney_flue', 'caupona:brick_chimney_flue', 'caupona:opus_incertum_chimney_flue', 'caupona:opus_latericium_chimney_flue']
+
+['caupona:stone_brick_hypocaust_firebox', 'caupona:brick_hypocaust_firebox', 'caupona:opus_incertum_hypocaust_firebox', 'caupona:opus_latericium_hypocaust_firebox', '#caupona:pans', '#minecraft:signs', '#minecraft:buttons', '#minecraft:leaves', '#minecraft:banners', '#minecraft:candles', '#minecraft:wall_signs', '#minecraft:standing_signs', '#minecraft:candles', '#minecraft:coral_plants', '#minecraft:fences', '#minecraft:walls', '#minecraft:trapdoors', '#minecraft:doors', '#minecraft:flower_pots', '#minecraft:wall_post_override', '#minecraft:flowers', 'minecraft:air', 'minecraft:vine', 'minecraft:cave_vines', 'caupona:stew_pot', 'caupona:wolf_statue']
+
+['caupona:mud_chimney_pot', 'caupona:stone_brick_chimney_pot', 'caupona:brick_chimney_pot', 'caupona:opus_incertum_chimney_pot', 'caupona:opus_latericium_chimney_pot']
+
+['caupona:mud_chimney_flue', 'caupona:mud_chimney_pot', 'caupona:mud_counter', 'caupona:mud_counter_with_dolium', 'caupona:stone_brick_chimney_flue', 'caupona:stone_brick_chimney_pot', 'caupona:stone_brick_counter', 'caupona:stone_brick_counter_with_dolium', 'caupona:brick_chimney_flue', 'caupona:brick_chimney_pot', 'caupona:brick_counter', 'caupona:brick_counter_with_dolium', 'caupona:opus_incertum_chimney_flue', 'caupona:opus_incertum_chimney_pot', 'caupona:opus_incertum_counter', 'caupona:opus_incertum_counter_with_dolium', 'caupona:opus_latericium_chimney_flue', 'caupona:opus_latericium_chimney_pot', 'caupona:opus_latericium_counter', 'caupona:opus_latericium_counter_with_dolium']
+
+['caupona:walnut_leaves', 'caupona:wolfberry_leaves', 'caupona:fig_leaves']
+
+['minecraft:magma_block']
+
+['minecraft:lava']
+
+['caupona:stone_brick_hypocaust_firebox', 'caupona:brick_hypocaust_firebox', 'caupona:opus_incertum_hypocaust_firebox', 'caupona:opus_latericium_hypocaust_firebox', '#caupona:caliducts']
+
+['caupona:stone_griddle', 'caupona:copper_frying_pan', 'caupona:iron_frying_pan']
+
+['#caupona:fruits_growable', '#minecraft:leaves', '#caupona:snail_plump_food', 'caupona:snail_bait']
+
+['#caupona:fruits_growable', '#minecraft:leaves', 'caupona:snail_mucus']
+
+['caupona:wolfberry_fruits', 'caupona:fig_fruits', 'caupona:walnut_fruits']
+
+['caupona:mud_kitchen_stove', 'caupona:stone_brick_kitchen_stove', 'caupona:brick_kitchen_stove', 'caupona:opus_incertum_kitchen_stove', 'caupona:opus_latericium_kitchen_stove']
+
+['minecraft:water', 'minecraft:milk', '#caupona:stews']
+
+['minecraft:water']
+
+['caupona:acquacotta', 'caupona:bisque', 'caupona:borscht', 'caupona:borscht_cream', 'caupona:congee', 'caupona:cream_of_meat_soup', 'caupona:cream_of_mushroom_soup', 'caupona:custard', 'caupona:dilute_soup', 'caupona:egg_drop_soup', 'caupona:egg_tongsui', 'caupona:fish_chowder', 'caupona:fish_soup', 'caupona:fricassee', 'caupona:goji_tongsui', 'caupona:goulash', 'caupona:gruel', 'caupona:hodgepodge', 'caupona:meat_soup', 'caupona:mushroom_soup', 'caupona:nail_soup', 'caupona:nettle_soup', 'caupona:okroshka', 'caupona:porridge', 'caupona:poultry_soup', 'caupona:pumpkin_soup', 'caupona:pumpkin_soup_cream', 'caupona:rice_pudding', 'caupona:scalded_milk', 'caupona:seaweed_soup', 'caupona:stock', 'caupona:stracciatella', 'caupona:ukha', 'caupona:vegetable_chowder', 'caupona:vegetable_soup', 'caupona:walnut_soup', 'caupona:bone_gelatin']
+
+['caupona:stock', 'caupona:nail_soup']
+
+['caupona:bisque_aspic', 'caupona:borscht_aspic', 'caupona:dilute_soup_aspic', 'caupona:egg_drop_soup_aspic', 'caupona:fish_soup_aspic', 'caupona:goulash_aspic', 'caupona:hodgepodge_aspic', 'caupona:meat_soup_aspic', 'caupona:mushroom_soup_aspic', 'caupona:nettle_soup_aspic', 'caupona:poultry_soup_aspic', 'caupona:pumpkin_soup_aspic', 'caupona:seaweed_soup_aspic', 'caupona:stock_aspic', 'caupona:stracciatella_aspic', 'caupona:vegetable_soup_aspic']
+
+['minecraft:bone', {'id': '#forge:bones', 'required': False}]
+
+['#caupona:cereals/rice', '#caupona:cereals/baked', 'minecraft:wheat', 'minecraft:wheat_seeds', {'id': '#forge:grain', 'required': False}, {'id': '#forge:bread', 'required': False}]
+
+['minecraft:egg', 'caupona:snail_block', {'id': '#forge:eggs', 'required': False}, {'id': '#forge:cooked_eggs', 'required': False}, {'id': '#forge:roe', 'required': False}]
+
+['minecraft:fern', 'minecraft:large_fern', {'id': '#forge:nettle', 'required': False}, {'id': '#forge:ferns', 'required': False}]
+
+['minecraft:cod', 'minecraft:salmon']
+
+['minecraft:ice', 'minecraft:blue_ice', 'minecraft:packed_ice', {'id': '#forge:ices', 'required': False}, {'id': '#forge:ice_cubes', 'required': False}]
+
+['#caupona:meats/poultry', '#caupona:meats/meat']
+
+['minecraft:white_concrete', 'minecraft:light_gray_concrete', 'minecraft:gray_concrete', 'minecraft:black_concrete', 'minecraft:brown_concrete', 'minecraft:red_concrete', 'minecraft:orange_concrete', 'minecraft:yellow_concrete', 'minecraft:lime_concrete', 'minecraft:green_concrete', 'minecraft:cyan_concrete', 'minecraft:light_blue_concrete', 'minecraft:blue_concrete', 'minecraft:purple_concrete', 'minecraft:magenta_concrete', 'minecraft:pink_concrete']
+
+['minecraft:brown_mushroom', 'minecraft:red_mushroom', {'id': '#forge:mushrooms', 'required': False}]
+
+['minecraft:magma_cream', 'caupona:vivid_charcoal']
+
+['#caupona:seafood/fish', '#caupona:seafood/crustaceans', 'minecraft:kelp', 'minecraft:dried_kelp']
+
+['caupona:water', 'caupona:milk', 'caupona:acquacotta', 'caupona:bisque', 'caupona:borscht', 'caupona:borscht_cream', 'caupona:congee', 'caupona:cream_of_meat_soup', 'caupona:cream_of_mushroom_soup', 'caupona:custard', 'caupona:dilute_soup', 'caupona:egg_drop_soup', 'caupona:egg_tongsui', 'caupona:fish_chowder', 'caupona:fish_soup', 'caupona:fricassee', 'caupona:goji_tongsui', 'caupona:goulash', 'caupona:gruel', 'caupona:hodgepodge', 'caupona:meat_soup', 'caupona:mushroom_soup', 'caupona:nail_soup', 'caupona:nettle_soup', 'caupona:okroshka', 'caupona:porridge', 'caupona:poultry_soup', 'caupona:pumpkin_soup', 'caupona:pumpkin_soup_cream', 'caupona:rice_pudding', 'caupona:scalded_milk', 'caupona:seaweed_soup', 'caupona:stock', 'caupona:stracciatella', 'caupona:ukha', 'caupona:vegetable_chowder', 'caupona:vegetable_soup', 'caupona:walnut_soup', 'caupona:bone_gelatin']
+
+['caupona:mud_kitchen_stove', 'caupona:stone_brick_kitchen_stove', 'caupona:brick_kitchen_stove', 'caupona:opus_incertum_kitchen_stove', 'caupona:opus_latericium_kitchen_stove']
+
+['minecraft:sugar_cane', 'minecraft:honeycomb', 'minecraft:honey_bottle', {'id': '#forge:caramel', 'required': False}]
+
+['minecraft:carrot', 'minecraft:beetroot', 'minecraft:pumpkin', '#caupona:vegetables/greens', '#caupona:mushroom', '#caupona:vegetables/roots', '#caupona:vegetables/pumpkin', {'id': '#forge:vegetables', 'required': False}, {'id': '#forge:vegetable', 'required': False}, {'id': '#forge:salad_ingredients', 'required': False}, {'id': '#forge:crops/onion', 'required': False}, {'id': '#forge:crops/bellpepper', 'required': False}, {'id': '#forge:crops/pepper', 'required': False}, {'id': '#forge:crops/tomato', 'required': False}, {'id': '#forge:crops/eggplant', 'required': False}, {'id': '#forge:crops/cucumber', 'required': False}, {'id': '#forge:crops/radish', 'required': False}, {'id': '#forge:crops/pea', 'required': False}, {'id': '#forge:crops/bean', 'required': False}]
+
+['minecraft:apple', 'caupona:fig']
+
+['minecraft:sweet_berries', 'caupona:wolfberries']
+
+['caupona:walnut', {'id': '#forge:nuts/walnut', 'required': False}]
+
+['caupona:walnut_wood', 'caupona:walnut_log', 'caupona:stripped_walnut_wood', 'caupona:stripped_walnut_log']
+
+['caupona:wolfberries']
+
+['minecraft:bread', {'id': '#forge:pasta', 'required': False}, {'id': 'farmersdelight:pie_crust', 'required': False}, {'id': 'forge:bread', 'required': False}]
+
+#forge:grain/rice
+
+['minecraft:charcoal']
+
+['#minecraft:coals']
+
+['minecraft:lava_bucket']
+
+['#minecraft:logs', '#minecraft:planks', '#minecraft:wooden_buttons', '#minecraft:wooden_doors', '#minecraft:wooden_fences', '#minecraft:wooden_pressure_plates', '#minecraft:wooden_slabs', '#minecraft:wooden_stairs', '#minecraft:wooden_trapdoors', '#minecraft:saplings']
+
+['minecraft:beef', 'minecraft:mutton', 'minecraft:porkchop', 'minecraft:rotten_flesh', {'id': 'farmersdelight:ham', 'required': False}, {'id': '#forge:bacon', 'required': False}, {'id': '#forge:raw_pork', 'required': False}, {'id': '#forge:raw_beef', 'required': False}, {'id': '#forge:raw_mutton', 'required': False}, {'id': '#forge:raw_venison', 'required': False}, {'id': '#forge:raw_bacon', 'required': False}]
+
+['minecraft:chicken', 'minecraft:rabbit', {'id': 'simplefarming:raw_chicken_wings', 'required': False}, {'id': 'simplefarming:raw_sausage', 'required': False}, {'id': 'simplefarming:raw_horse_meat', 'required': False}, {'id': '#forge:raw_chicken', 'required': False}, {'id': '#forge:raw_rabbit', 'required': False}]
+
+['caupona:snail', 'caupona:plump_snail', {'id': 'quark:crab_leg', 'required': False}, {'id': 'alexsmobs:lobster_tail', 'required': False}, {'id': '#forge:crabs', 'required': False}, {'id': '#forge:crab_legs', 'required': False}, {'id': '#forge:clams', 'required': False}, {'id': '#forge:lobsters', 'required': False}, {'id': '#forge:mussel', 'required': False}, {'id': '#aquaculture:turtle', 'required': False}]
+
+['#minecraft:fishes', {'id': '#forge:raw_fishes', 'required': False}, {'id': '#forge:cooked_fishes', 'required': False}]
+
+['minecraft:fern', 'minecraft:large_fern', 'minecraft:allium', 'caupona:fresh_wolfberry_leaves', {'id': '#forge:crops/asparagus', 'required': False}, {'id': '#forge:crops/cabbage', 'required': False}, {'id': '#forge:crops/leek', 'required': False}, {'id': '#forge:crops/kale', 'required': False}, {'id': '#forge:crops/lettuce', 'required': False}, {'id': '#forge:crops/cauliflower', 'required': False}, {'id': '#forge:crops/broccoli', 'required': False}, {'id': '#forge:crops/spinach', 'required': False}, {'id': '#forge:crops/brusselsprout', 'required': False}, {'id': '#forge:crops/artichoke', 'required': False}]
+
+farmersdelight:pumpkin_slice
+
+['minecraft:potato', 'minecraft:baked_potato', {'id': '#forge:rootvegetables', 'required': False}, {'id': '#forge:crops/parsnip', 'required': False}, {'id': '#forge:crops/turnip', 'required': False}, {'id': '#forge:crops/radish', 'required': False}, {'id': '#forge:crops/cassava', 'required': False}, {'id': '#forge:crops/yam', 'required': False}, {'id': '#forge:crops/sweet_potato', 'required': False}]
+
+['#forge:is_plains', 'minecraft:savanna', 'minecraft:savanna_plateau']
+
+['minecraft:sunflower_plains']
+
+['#minecraft:is_forest']
+
+['#minecraft:is_hill']
+
+['#minecraft:is_hill', '#minecraft:is_mountain', 'minecraft:desert']
+
+['caupona:walnut_fence_gate']
+
+['caupona:walnut_fence_gate']
+
+['caupona:walnut_fence_gate']
+
+['minecraft:beef']
+
+['caupona:walnut_fence_gate']
+
+['caupona:lead_ingot']
+
+['caupona:lead_nugget']
+
+['caupona:lead_block']
+
+['caupona:walnut_door']
+
+['caupona:walnut_fence']
+
+['caupona:walnut_fence_gate']
+
+['caupona:walnut_leaves', 'caupona:wolfberry_leaves', 'caupona:fig_leaves']
+
+['caupona:walnut_wood', 'caupona:walnut_log', 'caupona:stripped_walnut_log', 'caupona:stripped_walnut_wood', 'caupona:wolfberry_log', 'caupona:fig_log']
+
+['caupona:walnut_wood', 'caupona:walnut_log', 'caupona:stripped_walnut_log', 'caupona:stripped_walnut_wood', 'caupona:wolfberry_log', 'caupona:fig_log']
+
+['caupona:wolf_statue', 'caupona:copper_frying_pan', 'caupona:iron_frying_pan']
+
+['caupona:walnut_planks']
+
+['caupona:walnut_pressure_plate']
+
+['caupona:walnut_sapling', 'caupona:wolfberry_sapling', 'caupona:fig_sapling']
+
+['caupona:walnut_sign', 'caupona:walnut_wall_sign']
+
+['caupona:walnut_slab', 'caupona:mixed_bricks_slab', 'caupona:opus_incertum_slab', 'caupona:opus_latericium_slab', 'caupona:opus_reticulatum_slab', 'caupona:felsic_tuff_bricks_slab', 'caupona:felsic_tuff_slab']
+
+['caupona:walnut_stairs', 'caupona:mixed_bricks_stairs', 'caupona:opus_incertum_stairs', 'caupona:opus_latericium_stairs', 'caupona:opus_reticulatum_stairs', 'caupona:felsic_tuff_bricks_stairs', 'caupona:felsic_tuff_stairs']
+
+['caupona:walnut_sign']
+
+['caupona:walnut_trapdoor']
+
+['caupona:walnut_fence_gate']
+
+['caupona:mixed_bricks_wall', 'caupona:opus_incertum_wall', 'caupona:opus_latericium_wall', 'caupona:opus_reticulatum_wall', 'caupona:felsic_tuff_bricks_wall', 'caupona:felsic_tuff_wall']
+
+['caupona:walnut_pressure_plate']
+
+['caupona:walnut_wall_sign']
+
+['caupona:walnut_door']
+
+['caupona:walnut_fence']
+
+['caupona:walnut_pressure_plate']
+
+['caupona:walnut_slab']
+
+['caupona:walnut_stairs']
+
+['caupona:walnut_button', 'caupona:walnut_door', 'caupona:walnut_fence', 'caupona:walnut_fence_gate', 'caupona:walnut_log', 'caupona:walnut_planks', 'caupona:walnut_pressure_plate', 'caupona:walnut_sapling', 'caupona:walnut_sign', 'caupona:walnut_wall_sign', 'caupona:walnut_slab', 'caupona:walnut_stairs', 'caupona:walnut_trapdoor', 'caupona:walnut_wood', 'caupona:stripped_walnut_log', 'caupona:stripped_walnut_wood', 'caupona:wolfberry_log', 'caupona:fig_log']
+
+['caupona:walnut_leaves', 'caupona:walnut_fruits', 'caupona:wolfberry_leaves', 'caupona:wolfberry_fruits', 'caupona:fig_leaves', 'caupona:fig_fruits', 'caupona:snail_block', 'caupona:snail_bait', 'caupona:snail_mucus']
+
+['caupona:mud_kitchen_stove', 'caupona:stone_brick_kitchen_stove', 'caupona:brick_kitchen_stove', 'caupona:opus_incertum_kitchen_stove', 'caupona:opus_latericium_kitchen_stove', 'caupona:stew_pot', 'caupona:lead_stew_pot', 'caupona:tessellation_workbench', 'caupona:mosaic', 'caupona:lead_block', 'caupona:mud_chimney_flue', 'caupona:mud_chimney_pot', 'caupona:mud_counter', 'caupona:mud_counter_with_dolium', 'caupona:stone_brick_chimney_flue', 'caupona:stone_brick_chimney_pot', 'caupona:stone_brick_counter', 'caupona:stone_brick_counter_with_dolium', 'caupona:stone_brick_caliduct', 'caupona:stone_brick_hypocaust_firebox', 'caupona:stone_column_fluted_plinth', 'caupona:stone_column_fluted_shaft', 'caupona:stone_column_shaft', 'caupona:stone_column_plinth', 'caupona:stone_ionic_column_capital', 'caupona:stone_tuscan_column_capital', 'caupona:stone_acanthine_column_capital', 'caupona:stone_lacunar_tile', 'caupona:stone_spoked_fence', 'caupona:stone_road', 'caupona:stone_road_side', 'caupona:sandstone_road', 'caupona:sandstone_road_side', 'caupona:brick_chimney_flue', 'caupona:brick_chimney_pot', 'caupona:brick_counter', 'caupona:brick_counter_with_dolium', 'caupona:brick_caliduct', 'caupona:brick_hypocaust_firebox', 'caupona:mixed_bricks', 'caupona:mixed_bricks_slab', 'caupona:mixed_bricks_stairs', 'caupona:mixed_bricks_wall', 'caupona:opus_incertum', 'caupona:opus_incertum_slab', 'caupona:opus_incertum_stairs', 'caupona:opus_incertum_wall', 'caupona:opus_incertum_chimney_flue', 'caupona:opus_incertum_chimney_pot', 'caupona:opus_incertum_counter', 'caupona:opus_incertum_counter_with_dolium', 'caupona:opus_incertum_caliduct', 'caupona:opus_incertum_hypocaust_firebox', 'caupona:opus_latericium', 'caupona:opus_latericium_slab', 'caupona:opus_latericium_stairs', 'caupona:opus_latericium_wall', 'caupona:opus_latericium_chimney_flue', 'caupona:opus_latericium_chimney_pot', 'caupona:opus_latericium_counter', 'caupona:opus_latericium_counter_with_dolium', 'caupona:opus_latericium_caliduct', 'caupona:opus_latericium_hypocaust_firebox', 'caupona:opus_reticulatum', 'caupona:opus_reticulatum_slab', 'caupona:opus_reticulatum_stairs', 'caupona:opus_reticulatum_wall', 'caupona:felsic_tuff_bricks', 'caupona:felsic_tuff_bricks_slab', 'caupona:felsic_tuff_bricks_stairs', 'caupona:felsic_tuff_bricks_wall', 'caupona:felsic_tuff_column_fluted_plinth', 'caupona:felsic_tuff_column_fluted_shaft', 'caupona:felsic_tuff_column_shaft', 'caupona:felsic_tuff_column_plinth', 'caupona:felsic_tuff_ionic_column_capital', 'caupona:felsic_tuff_tuscan_column_capital', 'caupona:felsic_tuff_acanthine_column_capital', 'caupona:felsic_tuff_lacunar_tile', 'caupona:felsic_tuff_spoked_fence', 'caupona:felsic_tuff', 'caupona:felsic_tuff_slab', 'caupona:felsic_tuff_stairs', 'caupona:felsic_tuff_wall', 'caupona:felsic_tuff_road', 'caupona:felsic_tuff_road_side', 'caupona:quartz_column_fluted_plinth', 'caupona:quartz_column_fluted_shaft', 'caupona:quartz_column_shaft', 'caupona:quartz_column_plinth', 'caupona:quartz_ionic_column_capital', 'caupona:quartz_tuscan_column_capital', 'caupona:quartz_acanthine_column_capital', 'caupona:quartz_lacunar_tile', 'caupona:quartz_spoked_fence', 'caupona:calcite_column_fluted_plinth', 'caupona:calcite_column_fluted_shaft', 'caupona:calcite_column_shaft', 'caupona:calcite_column_plinth', 'caupona:calcite_ionic_column_capital', 'caupona:calcite_tuscan_column_capital', 'caupona:calcite_acanthine_column_capital', 'caupona:calcite_lacunar_tile', 'caupona:calcite_spoked_fence', 'caupona:pumice_bloom', 'caupona:fumarole_boulder', 'caupona:fumarole_vent', 'caupona:pumice', 'caupona:wolf_statue', 'caupona:stone_griddle', 'caupona:copper_frying_pan', 'caupona:iron_frying_pan', 'caupona:lead_frying_pan']
+
+['caupona:walnut_door']
+
+['caupona:walnut_fence']
+
+['caupona:walnut_leaves', 'caupona:fig_leaves', 'caupona:wolfberry_leaves']
+
+['caupona:walnut_wood', 'caupona:walnut_log', 'caupona:stripped_walnut_wood', 'caupona:stripped_walnut_log', 'caupona:fig_log', 'caupona:wolfberry_log']
+
+['caupona:walnut_planks']
+
+['caupona:walnut_sapling', 'caupona:fig_sapling', 'caupona:wolfberry_sapling']
+
+['caupona:walnut_sign']
+
+['caupona:walnut_slab', 'caupona:mixed_bricks_slab', 'caupona:opus_incertum_slab', 'caupona:opus_latericium_slab', 'caupona:opus_reticulatum_slab', 'caupona:felsic_tuff_bricks_slab', 'caupona:felsic_tuff_slab']
+
+['caupona:walnut_stairs', 'caupona:mixed_bricks_stairs', 'caupona:opus_incertum_stairs', 'caupona:opus_latericium_stairs', 'caupona:opus_reticulatum_stairs', 'caupona:felsic_tuff_bricks_stairs', 'caupona:felsic_tuff_stairs']
+
+['caupona:walnut_trapdoor']
+
+['caupona:mixed_bricks_wall', 'caupona:opus_incertum_wall', 'caupona:opus_latericium_wall', 'caupona:opus_reticulatum_wall', 'caupona:felsic_tuff_bricks_wall', 'caupona:felsic_tuff_wall']
+
+['caupona:walnut_button']
+
+['caupona:walnut_door']
+
+['caupona:walnut_fence']
+
+['caupona:walnut_pressure_plate']
+
+['caupona:walnut_slab']
+
+['caupona:walnut_stairs']
+
+['caupona:walnut_trapdoor']
+
+['caupona:nail_soup']
+
+['convivium:aeolipile']
+
+['convivium:felsic_tuff_aqueduct', 'convivium:felsic_tuff_aqueduct_wavemaker', 'convivium:stone_aqueduct', 'convivium:stone_aqueduct_wavemaker', 'convivium:sandstone_aqueduct', 'convivium:sandstone_aqueduct_wavemaker']
+
+['caupona:bowl', 'caupona:dish', 'convivium:fruit_platter', 'caupona:wolf_statue', 'caupona:copper_frying_pan', 'caupona:lead_frying_pan', 'caupona:iron_frying_pan', 'caupona:gravy_boat', 'caupona:stone_griddle', 'convivium:beverage', 'caupona:huevos_pericos', 'caupona:sauteed_beef', 'caupona:sauteed_greens', 'caupona:sauteed_hodgepodge', 'caupona:sauteed_meat', 'caupona:sauteed_mushrooms', 'caupona:sauteed_roots', 'caupona:sauteed_seafood', 'caupona:sauteed_vegetables', 'caupona:seared_fillet', 'caupona:seared_poultry']
+
+['caupona:asses']
+
+['#convivium:fruits/berries/small', '#convivium:fruits/berries/large', '#convivium:fruits/pomes/small', '#convivium:fruits/pomes/large', '#convivium:fruits/drupes/small', '#convivium:fruits/drupes/large']
+
+['caupona:walnut']
+
+['convivium:neroli', 'convivium:spice_blend', 'caupona:asafoetida']
+
+['minecraft:sugar', 'minecraft:honeycomb', 'minecraft:honey_bottle']
+
+['minecraft:melon_slice', 'minecraft:glistering_melon_slice']
+
+['minecraft:glow_berries', 'minecraft:sweet_berries', 'caupona:wolfberries']
+
+['caupona:fig']
+
+[]
+
+['minecraft:apple', 'minecraft:golden_apple']
+
+[]
+
+['minecraft:bamboo_jungle']
+
+['convivium:cage_wheel', 'convivium:cog', 'convivium:fruit_platter', 'convivium:camellia_plant']
+
+['convivium:whisk', 'convivium:aeolipile', 'convivium:pestle_and_mortar', 'convivium:basin', 'convivium:lead_basin', 'convivium:beverage_vending_machine', 'convivium:felsic_tuff_aqueduct', 'convivium:stone_aqueduct', 'convivium:sandstone_aqueduct', 'convivium:felsic_tuff_aqueduct_wavemaker', 'convivium:stone_aqueduct_wavemaker', 'convivium:sandstone_aqueduct_wavemaker']
+
+['crabbersdelight:cooked_clam_meat', 'crabbersdelight:cooked_crab', 'crabbersdelight:cooked_clawster', 'crabbersdelight:cooked_shrimp']
+
+['minecraft:kelp']
+
+['minecraft:tropical_fish', 'minecraft:cod', 'minecraft:salmon', 'minecraft:pufferfish', 'crabbersdelight:bucket_of_clam_chum', 'crabbersdelight:bucket_of_clawster_chum', 'crabbersdelight:bucket_of_crab_chum', 'crabbersdelight:bucket_of_shrimp_chum', 'minecraft:bucket']
+
+['crabbersdelight:bucket_of_clam_chum', 'crabbersdelight:bucket_of_clawster_chum', 'crabbersdelight:bucket_of_crab_chum', 'crabbersdelight:bucket_of_shrimp_chum']
+
+['minecraft:tropical_fish']
+
+['minecraft:salmon']
+
+['minecraft:cod']
+
+['minecraft:pufferfish']
+
+['crabbersdelight:raw_clam_meat', 'crabbersdelight:crab', 'crabbersdelight:clawster', 'crabbersdelight:shrimp']
+
+['crabbersdelight:clam']
+
+['crabbersdelight:clawster']
+
+['crabbersdelight:crab']
+
+['crabbersdelight:shrimp']
+
+['minecraft:stick', 'minecraft:nautilus_shell', 'farmersdelight:rope', 'minecraft:kelp']
+
+['crabbersdelight:crab', 'crabbersdelight:clawster', 'crabbersdelight:shrimp', 'crabbersdelight:clam', 'minecraft:stick', 'minecraft:nautilus_shell', 'farmersdelight:rope', 'minecraft:gold_nugget', 'minecraft:copper_ingot', 'minecraft:iron_nugget']
+
+['crabbersdelight:cooked_tropical_fish_slice', 'crabbersdelight:cooked_tropical_fish', 'crabbersdelight:cooked_pufferfish_slice']
+
+['crabbersdelight:tropical_fish_slice', 'crabbersdelight:pufferfish_slice']
+
+['crabbersdelight:crab_barrel', 'crabbersdelight:clam_barrel', 'crabbersdelight:clawster_barrel', 'crabbersdelight:shrimp_barrel', 'crabbersdelight:cod_barrel', 'crabbersdelight:salmon_barrel', 'crabbersdelight:pufferfish_barrel', 'crabbersdelight:tropical_fish_barrel', 'crabbersdelight:crab_trap']
+
+['crabbersdelight:nautilus_shell_block', 'crabbersdelight:pearl_block']
+
+['createcafe:cassava_root', 'createcafe:coffee_fruit']
+
+['createcafe:cassava_root', 'createcafe:coffee_fruit']
+
+['createcafe:mana_berries', 'createcafe:blood_orange']
+
+['createcafe:cassava_seeds', 'createcafe:coffee_beans']
+
+['createcafe:cassava_root']
+
+['createcafe:coffee_fruit']
+
+['createcafe:blood_orange']
+
+['createcafe:mana_berries']
+
+['createcafe:cassava_seeds']
+
+['createcafe:coffee_beans']
+
+['createcafe:cassava_root']
+
+['farmersdelight:cabbage', 'farmersdelight:cabbage_leaf', 'farmersdelight:tomato', 'farmersdelight:onion']
+
+['minecraft:carrot', 'minecraft:beetroot', 'minecraft:potato']
+
+['minecraft:ink_sac', 'minecraft:glow_ink_sac']
+
+['ratatouille:oven', 'ratatouille:thresher', 'ratatouille:oven_fan', 'ratatouille:squeeze_basin', 'ratatouille:mechanical_demolder', 'ratatouille:irrigation_tower', 'ratatouille:spreader', 'ratatouille:frozen_block']
+
+['ratatouille:cake_mold', 'ratatouille:chocolate_mold']
+
+['minecraft:beef', 'minecraft:porkchop', 'minecraft:chicken', 'minecraft:mutton', 'minecraft:rabbit']
+
+{'FRUIT': 1}
+
+{'VEGGIE': 1}
+
+{'INEDIBLE': 1}
+
+{'MEAT': 1}
+
+{'VEGGIE': 1}
+
+{'INEDIBLE': 1}
+
+{'VEGGIE': 1}
+
+{'MEAT': 0.5}
+
+{'VEGGIE': 0.5}
+
+{'FRUIT': 0.5}
+
+{'FRUIT': 0.5}
+
+{'FISH': 0.5, 'MEAT': 0.5}
+
+{'INEDIBLE': 1}
+
+{'VEGGIE': 1}
+
+{'VEGGIE': 0.5, 'MONSTER': 1}
+
+{'VEGGIE': 1}
+
+{'EGG': 1}
+
+{'VEGGIE': 0.25}
+
+{'VEGGIE': 0.25}
+
+{'MEAT': 0.5}
+
+{'VEGGIE': 1}
+
+{'FRUIT': 0.5}
+
+{'MEAT': 0.5}
+
+{'SWEETENER': 0.5}
+
+{'SWEETENER': 1}
+
+{'FROZEN': 1}
+
+{'VEGGIE': 0.5, 'INEDIBLE': 0.25}
+
+{'FRUIT': 1}
+
+{'FRUIT': 0.5}
+
+{'DAIRY': 1}
+
+{'MEAT': 0.5}
+
+{'VEGGIE': 1}
+
+{'VEGGIE': 1}
+
+{'VEGGIE': 0.5}
+
+{'MEAT': 1}
+
+{'VEGGIE': 1}
+
+{'FISH': 0.5, 'MONSTER': 1}
+
+{'MEAT': 0.5}
+
+{'MEAT': 0.5, 'MONSTER': 1}
+
+{'FISH': 1, 'MEAT': 0.5}
+
+{'EGG': 4}
+
+{'FROZEN': 0.5}
+
+{'MEAT': 0.5, 'MONSTER': 1}
+
+{'INEDIBLE': 1}
+
+{'FRUIT': 0.5}
+
+{'SWEETENER': 1}
+
+{'VEGGIE': 1}
+
+{'FISH': 1}
+
+{'EGG': 2}
+
+{'INEDIBLE': 1}
+
+{'VEGGIE': 0.5, 'MONSTER': 1}
+
+{'FRUIT': 1}
+
+{'FRUIT': 0.5}
+
+{'FISH': 0.5, 'MEAT': 0.5}
+
+{'DAIRY': 1}
+
+{'EGG': 1}
+
+{'FRUIT': 1}
+
+{'INEDIBLE': 1}
+
+{'DAIRY': 1}
+
+{'VEGGIE': 0.5}
+
+{'VEGGIE': 1}
+
+{'DAIRY': 1}
+
+{'FRUIT': 0.5}
+
+{'VEGGIE': 1}
+
+{}
+
+{'VEGGIE': 0.5}
+
+{'VEGGIE': 1}
+
+{'EGG': 1}
+
+{'MEAT': 0.5}
+
+{'FRUIT': 0.5}
+
+{'FRUIT': 1}
+
+{}
+
+{'VEGGIE': 1}
+
+{}
+
+{'VEGGIE': 1}
+
+{'FISH': 1, 'MEAT': 0.5}
+
+['crockpot:crock_pot', 'crockpot:portable_crock_pot']
+
+['crockpot:asparaguses', 'crockpot:corns', 'crockpot:eggplants', 'crockpot:garlics', 'crockpot:onions', 'crockpot:peppers', 'crockpot:tomatoes']
+
+['minecraft:terracotta', 'minecraft:white_terracotta', 'minecraft:light_gray_terracotta', 'minecraft:brown_terracotta', 'minecraft:red_terracotta', 'minecraft:orange_terracotta', 'minecraft:yellow_terracotta', 'minecraft:red_sand']
+
+['crockpot:crock_pot', 'crockpot:portable_crock_pot']
+
+['crockpot:milkmade_hat', 'crockpot:creative_milkmade_hat']
+
+['crockpot:parrot_egg_red_blue', 'crockpot:parrot_egg_blue', 'crockpot:parrot_egg_green', 'crockpot:parrot_egg_yellow_blue', 'crockpot:parrot_egg_gray']
+
+['crockpot:gnaws_coin']
+
+['crockpot:milkmade_hat', 'crockpot:creative_milkmade_hat']
+
+['minecraft:cooked_beef']
+
+['minecraft:cooked_chicken']
+
+['#forge:cooked_fishes/cod', '#forge:cooked_fishes/salmon']
+
+['crockpot:cooked_frog_legs']
+
+['minecraft:cooked_mutton']
+
+['minecraft:cooked_porkchop']
+
+['minecraft:cooked_rabbit']
+
+['#forge:crops/asparagus', '#forge:crops/corn', '#forge:crops/eggplant', '#forge:crops/garlic', '#forge:crops/onion', '#forge:crops/pepper', '#forge:crops/tomato']
+
+['#crockpot:parrot_eggs']
+
+['#forge:fruits/apple']
+
+['minecraft:beef']
+
+['minecraft:chicken']
+
+['#forge:raw_fishes/cod', '#forge:raw_fishes/salmon', '#forge:raw_fishes/tropical_fish']
+
+['crockpot:frog_legs']
+
+['minecraft:mutton']
+
+['minecraft:porkchop']
+
+['minecraft:rabbit']
+
+['#forge:seeds/asparagus', '#forge:seeds/corn', '#forge:seeds/eggplant', '#forge:seeds/garlic', '#forge:seeds/onion', '#forge:seeds/pepper', '#forge:seeds/tomato']
+
+['#forge:vegetables/beetroot', '#forge:vegetables/carrot', '#forge:vegetables/potato', '#forge:vegetables/pumpkin', '#forge:vegetables/asparagus', '#forge:vegetables/corn', '#forge:vegetables/eggplant', '#forge:vegetables/garlic', '#forge:vegetables/onion', '#forge:vegetables/pepper', '#forge:vegetables/tomato']
+
+['minecraft:cooked_cod']
+
+['minecraft:cooked_salmon']
+
+['crockpot:asparagus']
+
+['crockpot:corn']
+
+['crockpot:eggplant']
+
+['crockpot:garlic']
+
+['crockpot:onion']
+
+['crockpot:pepper']
+
+['crockpot:tomato']
+
+['minecraft:apple']
+
+['minecraft:cod']
+
+['minecraft:salmon']
+
+['minecraft:tropical_fish']
+
+['crockpot:asparagus_seeds']
+
+['crockpot:corn_seeds']
+
+['crockpot:eggplant_seeds']
+
+['crockpot:garlic_seeds']
+
+['crockpot:onion_seeds']
+
+['crockpot:pepper_seeds']
+
+['crockpot:tomato_seeds']
+
+['crockpot:asparagus']
+
+['minecraft:beetroot']
+
+['minecraft:carrot']
+
+['crockpot:corn']
+
+['crockpot:eggplant']
+
+['crockpot:garlic']
+
+['crockpot:onion']
+
+['crockpot:pepper']
+
+['minecraft:potato']
+
+['minecraft:pumpkin']
+
+['crockpot:tomato']
+
+['crockpot:unknown_crops', 'crockpot:asparaguses', 'crockpot:corns', 'crockpot:eggplants', 'crockpot:garlics', 'crockpot:onions', 'crockpot:peppers', 'crockpot:tomatoes']
+
+['crockpot:birdcage']
+
+['crockpot:crock_pot', 'crockpot:portable_crock_pot', 'crockpot:birdcage']
+
+['crockpot:candy', 'crockpot:monster_food', 'crockpot:pow_cake', 'crockpot:spicy', 'crockpot:taffy']
+
+['crockpot:candy', 'crockpot:monster_food', 'crockpot:pow_cake', 'crockpot:spicy', 'crockpot:taffy']
+
+['crockpot:parrot_egg']
+
+['crockpot:corns', 'crockpot:eggplants', 'crockpot:onions', 'crockpot:peppers', 'crockpot:unknown_crops']
+
+['crockpot:asparaguses', 'crockpot:onions', 'crockpot:unknown_crops']
+
+['crockpot:corns', 'crockpot:garlics', 'crockpot:peppers', 'crockpot:tomatoes', 'crockpot:unknown_crops']
+
+['crockpot:unknown_crops']
+
+['crockpot:asparaguses', 'crockpot:unknown_crops']
+
+['crockpot:corn_seeds', 'crockpot:eggplant_seeds', 'crockpot:onion_seeds', 'crockpot:pepper_seeds', 'crockpot:unknown_seeds']
+
+['crockpot:asparagus_seeds', 'crockpot:onion_seeds', 'crockpot:unknown_seeds']
+
+['crockpot:corn_seeds', 'crockpot:garlic_seeds', 'crockpot:pepper_seeds', 'crockpot:tomato_seeds', 'crockpot:unknown_seeds']
+
+['crockpot:unknown_seeds', 'crockpot:asparagus_seeds']
+
+additionaladditions:gilded_netherite_upgrade
+
+additionaladditions:gold_ring
+
+additionaladditions:rose_gold_alloy
+
+additionaladditions:rose_gold_upgrade
+
+ae2:fluix_block
+
+ae2:fluix_upgrade_smithing_template
+
+aether:enchanted_gravitite
+
+aether:holystone
+
+ancient_aether:valkyrum
+
+['delightful:source_berry_pie_slice']
+
+botania:dreamwood_twig
+
+botania:livingwood_twig
+
+['delightful:manasteel_knife', 'delightful:elementium_knife', 'delightful:terra_knife']
+
+['delightful:salmonberry_gummy', 'delightful:matcha_gummy', 'delightful:cantaloupe_gummy']
+
+create:polished_rose_quartz
+
+['#forge:jams', 'delightful:nut_butter_bottle', 'delightful:prickly_pear_juice', 'delightful:ender_nectar', 'delightful:azalea_tea', 'delightful:lavender_tea', 'delightful:matcha_latte', 'delightful:berry_matcha_latte', 'delightful:animal_oil_bottle', 'delightful:salmonberry_pie', {'id': 'farmersrespite:green_tea', 'required': False}, {'id': 'farmersrespite:yellow_tea', 'required': False}, {'id': 'farmersrespite:black_tea', 'required': False}, {'id': 'farmersrespite:rose_hip_tea', 'required': False}, {'id': 'farmersrespite:dandelion_tea', 'required': False}, {'id': 'farmersrespite:purulent_tea', 'required': False}, {'id': 'farmersrespite:gamblers_tea', 'required': False}]
+
+create_sa:heap_of_experience
+
+create_sa:zinc_handle
+
+deeperdarker:reinforced_echo_shard
+
+deeperdarker:warden_upgrade_smithing_template
+
+deep_aether:stratus_smithing_template
+
+natural_decoration:oak_acorn
+
+['#minecraft:sand']
+
+['minecraft:oak_leaves', 'minecraft:dark_oak_leaves']
+
+['#minecraft:leaves']
+
+sprout:sprouts
+
+ecologics:squirrel
+
+ecologics:coconut_crab
+
+['minecraft:goat']
+
+['minecraft:cat', 'minecraft:wolf', 'minecraft:cod', 'minecraft:salmon', 'minecraft:cow', 'minecraft:dolphin', 'minecraft:donkey', 'minecraft:fox', 'minecraft:glow_squid', 'minecraft:squid', 'minecraft:goat', 'minecraft:hoglin', 'minecraft:horse', 'minecraft:llama', 'minecraft:mooshroom', 'minecraft:mule', 'minecraft:ocelot', 'minecraft:panda', 'minecraft:pig', 'minecraft:piglin', 'minecraft:piglin_brute', 'minecraft:polar_bear', 'minecraft:pufferfish', 'minecraft:rabbit', 'minecraft:sheep', 'minecraft:tropical_fish', 'minecraft:turtle', {'id': 'ecologics:camel', 'required': False}, {'id': 'ecologics:penguin', 'required': False}, {'id': 'ecologics:squirrel', 'required': False}, {'id': 'ecologics:coconut_crab', 'required': False}, {'id': 'ars_nouveau:starbuncle', 'required': False}, {'id': 'aqcaracal:caracal', 'required': False}, {'id': 'babyfat:ranchu', 'required': False}, {'id': 'bettas:betta_fish', 'required': False}, {'id': 'buzzier_bees:moobloom', 'required': False}, {'id': 'buzzier_bees:grizzly_bear', 'required': False}, {'id': 'crittersandcompanions:dumbo_octopus', 'required': False}, {'id': 'crittersandcompanions:ferret', 'required': False}, {'id': 'crittersandcompanions:koi_fish', 'required': False}, {'id': 'crittersandcompanions:otter', 'required': False}, {'id': 'crittersandcompanions:red_panda', 'required': False}, {'id': 'duckling:duck', 'required': False}, {'id': 'duckling:quackling', 'required': False}, {'id': 'environmental:deer', 'required': False}, {'id': 'environmental:duck', 'required': False}, {'id': 'environmental:fennec_fox', 'required': False}, {'id': 'environmental:koi', 'required': False}, {'id': 'environmental:slabfish', 'required': False}, {'id': 'environmental:tapir', 'required': False}, {'id': 'environmental:yak', 'required': False}, {'id': 'friendsandfoes:moobloom', 'required': False}, {'id': 'frozenup:chilloo', 'required': False}, {'id': 'frozenup:penguin', 'required': False}, {'id': 'frozenup:reindeer', 'required': False}, {'id': 'fishofthieves:ancientscale', 'required': False}, {'id': 'fishofthieves:battlegill', 'required': False}, {'id': 'fishofthieves:devilfish', 'required': False}, {'id': 'fishofthieves:islehopper', 'required': False}, {'id': 'fishofthieves:plentifin', 'required': False}, {'id': 'fishofthieves:pondie', 'required': False}, {'id': 'fishofthieves:splashtail', 'required': False}, {'id': 'fishofthieves:stormfish', 'required': False}, {'id': 'fishofthieves:wildsplash', 'required': False}, {'id': 'fishofthieves:wrecker', 'required': False}, {'id': 'goodall:deer', 'required': False}, {'id': 'goodall:dumbo_octopus', 'required': False}, {'id': 'goodall:fennec_fox', 'required': False}, {'id': 'goodall:grizzly_bear', 'required': False}, {'id': 'goodall:manatee', 'required': False}, {'id': 'goodall:red_deer', 'required': False}, {'id': 'goodall:seal', 'required': False}, {'id': 'goodall:white_tailed_deer', 'required': False}, {'id': 'goodall:rhino', 'required': False}, {'id': 'goodall:river_turtle', 'required': False}, {'id': 'goodall:tortoise', 'required': False}, {'id': 'hedgehog:hedgehog', 'required': False}, {'id': 'naturalist:bear', 'required': False}, {'id': 'naturalist:boar', 'required': False}, {'id': 'naturalist:deer', 'required': False}, {'id': 'naturalist:elephant', 'required': False}, {'id': 'naturalist:giraffe', 'required': False}, {'id': 'naturalist:hippo', 'required': False}, {'id': 'naturalist:lion', 'required': False}, {'id': 'naturalist:rhino', 'required': False}, {'id': 'naturalist:zebra', 'required': False}, {'id': 'neapolitan:chimpanzee', 'required': False}, {'id': 'quark:crab', 'required': False}, {'id': 'quark:foxhound', 'required': False}, {'id': 'quark:shiba', 'required': False}, {'id': 'snowpig:snow_pig', 'required': False}, {'id': 'sprout:elephant', 'required': False}, {'id': 'wandering_trapper:trapper_dog', 'required': False}]
+
+['minecraft:pumpkin_pie', {'id': 'ars_nouveau:source_berry_pie', 'required': False}, {'id': 'undergarden:gloomgourd_pie', 'required': False}, {'id': 'byg:blueberry_pie', 'required': False}, {'id': 'byg:crimson_berry_pie', 'required': False}, {'id': 'byg:green_apple_pie', 'required': False}, {'id': 'byg:nightshade_berry_pie', 'required': False}]
+
+['delightful:fiery_knife', 'delightful:kiwano_knife', 'delightful:blazing_knife']
+
+['delightful:nether_quartz_knife', 'delightful:certus_quartz_knife']
+
+['#minecraft:is_beach']
+
+['#forge:is_plains']
+
+['#minecraft:is_forest']
+
+ecologics:cooked_prickly_pear
+
+['#forge:nuts', '#forge:cooked_nuts']
+
+['delightful:wild_salmonberries']
+
+['delightful:mini_melon', 'delightful:sliced_mini_melon', 'delightful:cantaloupe', 'delightful:sliced_cantaloupe', 'delightful:salmonberry_pie', 'delightful:pumpkin_pie', 'delightful:blueberry_pie', 'delightful:crimson_berry_pie', 'delightful:green_apple_pie', 'delightful:nightshade_berry_pie', 'delightful:source_berry_pie', 'delightful:gloomgourd_pie']
+
+['#farmersdelight:cabinets/stone']
+
+['minecraft:grass', 'minecraft:tall_grass', 'farmersdelight:sandy_shrub', {'id': 'upgrade_aquatic:beachgrass', 'required': False}, {'id': 'upgrade_aquatic:tall_beachgrass', 'required': False}]
+
+['delightful:wild_salmonberries']
+
+['delightful:basalt_cabinet', 'delightful:quartz_cabinet']
+
+['farmersdelight:mangrove_cabinet', {'id': 'windswept:holly_cabinet', 'required': False}, {'id': 'windswept:chestnut_cabinet', 'required': False}, {'id': 'fruittrees:citrus_cabinet', 'required': False}, {'id': 'fruittrees:cherry_cabinet', 'required': False}]
+
+['delightful:bone_knife', 'delightful:lapis_lazuli_knife', 'delightful:amethyst_knife', 'delightful:emerald_knife', 'delightful:copper_knife', 'delightful:tin_knife', 'delightful:steel_knife', 'delightful:silver_knife', 'delightful:brass_knife', 'delightful:bronze_knife', 'delightful:constantan_knife', 'delightful:electrum_knife', 'delightful:invar_knife', 'delightful:lead_knife', 'delightful:nickel_knife', 'delightful:zinc_knife', 'delightful:mythril_knife', 'delightful:adamantium_knife', 'delightful:onyx_knife', 'delightful:thyrium_knife', 'delightful:sinisite_knife', 'delightful:allthemodium_knife', 'delightful:enderite_knife', 'delightful:draco_arcanus_knife', 'delightful:osmium_knife', 'delightful:refined_glowstone_knife', 'delightful:refined_obsidian_knife', 'delightful:obsidian_infused_enderite_knife', 'delightful:black_opal_knife', 'delightful:netherite_opal_knife', 'delightful:large_amethyst_knife', 'delightful:fiery_knife', 'delightful:ironwood_knife', 'delightful:knightmetal_knife', 'delightful:steeleaf_knife', 'delightful:living_knife', 'delightful:pendorite_knife', 'delightful:warden_knife', 'delightful:experience_knife', 'delightful:gilded_quartz_knife', 'delightful:blazing_knife', 'delightful:leaf_knife', 'delightful:kiwano_knife', 'delightful:crystalline_knife', 'delightful:soul_steel_knife', 'delightful:rose_gold_knife', 'delightful:gilded_netherite_knife', 'delightful:necronium_knife', 'delightful:cloggrum_knife', 'delightful:froststeel_knife', 'delightful:utherium_knife', 'delightful:forgotten_knife', 'delightful:gravitite_knife', 'delightful:holystone_knife', 'delightful:skyroot_knife', 'delightful:zanite_knife', 'delightful:phoenix_knife', 'delightful:manasteel_knife', 'delightful:elementium_knife', 'delightful:terra_knife', 'delightful:alf_knife', 'delightful:veridium_knife', 'delightful:infused_veridium_knife', 'delightful:skyjade_knife', 'delightful:stratus_knife', 'delightful:valkyrum_knife', 'delightful:nether_quartz_knife', 'delightful:certus_quartz_knife', 'delightful:fluix_knife']
+
+forbidden_arcanus:draco_arcanus_staff
+
+forbidden_arcanus:dragon_scale
+
+['#forge:fruits/sweet_berries', '#forge:fruits/glow_berries', '#forge:fruits/salmonberries', '#forge:fruits/torchberries', '#forge:fruits/sourceberry', '#forge:fruits/elderberry', '#forge:fruits/blackcurrant', '#forge:fruits/redcurrant', '#forge:fruits/whitecurrant', '#forge:fruits/blueberries', '#forge:fruits/raspberries', '#forge:fruits/blackberries', '#forge:fruits/cranberries', '#forge:fruits/nightshade_berries', '#forge:fruits/crimson_berries', '#forge:fruits/cherry', '#forge:fruits/strawberries', '#forge:fruits/wild_berries', {'id': '#forge:fruits/mulberry', 'required': False}, {'id': '#forge:fruits/hawberry', 'required': False}, {'id': '#forge:fruits/bayberry', 'required': False}, {'id': 'undergarden:blisterberry', 'required': False}, {'id': 'enlightened_end:zure_berry', 'required': False}, {'id': 'phantasm:pream_berry', 'required': False}, {'id': 'deep_aether:goldenleaf_berries', 'required': False}, {'id': 'aether_redux:zanberry', 'required': False}]
+
+['#forge:bread/corn']
+
+['#forge:bread', '#forge:burger_bun']
+
+['#forge:bread_slices/toasted', {'id': 'some_assembly_required:bread_slice', 'required': False}, {'id': 'moredelight:bread_slice', 'required': False}]
+
+some_assembly_required:burger_bun
+
+sprout:cattail
+
+#forge:cheeses
+
+#forge:chocolates
+
+biomesoplenty:clover
+
+ecologics:coconut_slice
+
+crabbersdelight:cooked_crab
+
+additionaladditions:fried_egg
+
+['#forge:cooked_fishes/tuna', {'id': 'biomemakeover:cooked_glowfish', 'required': False}, {'id': 'deep_aether:cooked_aerglow_fish', 'required': False}]
+
+frog_legs:cooked_frog_legs
+
+['delightful:cooked_goat']
+
+['delightful:roasted_acorn', {'id': 'vintagedelight:roasted_peanut', 'required': False}]
+
+['delightful:cooked_venison_chops', '#forge:cooked_venison_compat']
+
+['#twilightdelight:venison_cooked']
+
+['minecraft:cookie', 'farmersdelight:honey_cookie', 'farmersdelight:sweet_berry_cookie', {'id': 'snowyspirit:gingerbread_cookie', 'required': False}, {'id': 'abnormals_delight:mulberry_cookie', 'required': False}, {'id': 'abnormals_delight:maple_cookie', 'required': False}, {'id': 'exquisito:chorus_cookie', 'required': False}, {'id': 'ends_delight:chorus_cookie', 'required': False}, {'id': 'miners_delight:bat_cookie', 'required': False}, {'id': 'sunflowerdelight:shortbread_cookie', 'required': False}, {'id': 'vintagedelight:oatmeal_cookie', 'required': False}, {'id': 'fruitsdelight:persimmon_cookie', 'required': False}, {'id': 'fruitsdelight:lemon_cookie', 'required': False}, {'id': 'fruitsdelight:cranberry_cookie', 'required': False}, {'id': 'fruitsdelight:bayberry_cookie', 'required': False}, {'id': 'vampiresdelight:orchid_cookie', 'required': False}]
+
+['#forge:crab_claw/cooked', {'id': 'crabbersdelight:crab_claw', 'required': False}, {'id': 'ecologics:crab_claw', 'required': False}, {'id': 'finsandtails:red_bull_crab_claw', 'required': False}, {'id': 'finsandtails:white_bull_crab_claw', 'required': False}]
+
+quark:cooked_crab_leg
+
+['#forge:crab_legs', {'id': 'ecologics:crab_meat', 'required': False}]
+
+['#forge:vegetables/cucumber']
+
+['#forge:dough/nut', '#forge:dough/corn']
+
+['#forge:eggs/bird', {'id': 'naturalist:alligator_egg', 'required': False}, {'id': 'naturalist:tortoise_egg', 'required': False}, {'id': 'sullysmod:tortoise_egg', 'required': False}]
+
+['#forge:berries', '#forge:fruits/citrus', '#forge:fruits/sweet', '#forge:fruits/chorus', {'id': 'ars_nouveau:mendosteen_pod', 'required': False}, {'id': 'ars_nouveau:bastion_pod', 'required': False}, {'id': 'ars_nouveau:bombegranate_pod', 'required': False}, {'id': 'ars_nouveau:frostaya_pod', 'required': False}, {'id': 'undergarden:droopvine_item', 'required': False}, {'id': 'phantasm:oblifruit', 'required': False}]
+
+['minecraft:blaze_powder', '#forge:vegetables/spicy', {'id': '#mynethersdelight:hot_spice', 'required': False}]
+
+['#forge:jellies']
+
+['#forge:jam', {'id': '#wildberries:berry_jams', 'required': False}, {'id': '#vintagedelight:sweet_jam_bottles', 'required': False}]
+
+['#forge:jelly', {'id': '#fruitsdelight:jelly', 'required': False}]
+
+['delightful:jelly_bottle', 'delightful:glow_jelly_bottle']
+
+biomesoplenty:lavender
+
+['delightful:matcha']
+
+['#forge:food/meat']
+
+aether:skyroot_milk_bucket
+
+['#forge:nuts/acorn', '#forge:nuts/walnut', '#forge:nuts/peanut', '#forge:nuts/chestnut']
+
+['#forge:peanut_butter', 'delightful:nut_butter_bottle', {'id': 'vintagedelight:nut_mash_bottle', 'required': False}]
+
+thermal:peanut_butter
+
+['farmersdelight:beef_patty', {'id': 'miners_delight:vegan_patty', 'required': False}]
+
+['#forge:pumpkins/carved', 'minecraft:pumpkin', {'id': 'autumnity:large_pumpkin_slice', 'required': False}]
+
+crabbersdelight:crab
+
+['#forge:raw_fishes/koi', '#forge:raw_fishes/tuna', {'id': 'biomemakeover:glowfish', 'required': False}, {'id': 'deep_aether:raw_aerglow_fish', 'required': False}, {'id': 'spawn:angler_fish', 'required': False}, {'id': 'bettas:betta_fish', 'required': False}]
+
+frog_legs:frog_legs
+
+['delightful:raw_goat']
+
+['delightful:venison_chops', '#forge:raw_venison_compat']
+
+['#twilightdelight:venison_raw']
+
+['farmersdelight:rope', {'id': '#supplementaries:ropes', 'required': False}, {'id': 'additionaladditions:rope', 'required': False}]
+
+['delightful:chopped_clover', {'id': 'babyfat:water_lettuce', 'required': False}]
+
+['#forge:seeds/salmonberry', '#forge:seeds/cantaloupe', {'id': 'farmersrespite:tea_seeds', 'required': False}, {'id': 'vintagedelight:oat_seeds', 'required': False}, {'id': 'vintagedelight:ghost_pepper_seeds', 'required': False}, {'id': 'vintagedelight:cucumber_seeds', 'required': False}, {'id': 'fruitsdelight:lemon_seeds', 'required': False}, {'id': 'fruitsdelight:hamimelon_seeds', 'required': False}]
+
+['minecraft:sugar']
+
+#supplementaries:pancake_syrup
+
+['#forge:tea_leaves/green', {'id': '#farmersrespite:tea_leaves', 'required': False}]
+
+culturaldelights:tortilla
+
+['minecraft:water_bucket']
+
+corn_delight:cornbread
+
+some_assembly_required:toasted_bread_slice
+
+spawn:cooked_tuna_chunk
+
+collectorsreap:chieftain_claw
+
+['minecraft:beetroot']
+
+['minecraft:carrot']
+
+snowyspirit:ginger
+
+culturaldelights:corn_dough
+
+['delightful:nut_dough']
+
+['minecraft:egg', '#forge:eggs/duck', '#forge:eggs/parrot', {'id': 'autumnity:turkey_egg', 'required': False}, {'id': 'deep_aether:quail_egg', 'required': False}, {'id': 'farmlife:galliraptor_egg', 'required': False}, {'id': 'etcetera:eggple', 'required': False}]
+
+naturalist:duck_egg
+
+quark:egg_parrot_red_blue
+
+['#forge:raw_venison', '#forge:cooked_venison', '#forge:raw_goat', '#forge:cooked_goat', '#forge:raw_frog', '#forge:cooked_frog']
+
+['minecraft:apple']
+
+neapolitan:banana
+
+wildberries:blackberry
+
+rootsclassic:blackcurrant
+
+byg:blueberries
+
+['delightful:cantaloupe_slice']
+
+forbidden_arcanus:cherry_peach
+
+['minecraft:chorus_fruit']
+
+nethers_exoticism:bouddha_s_hand
+
+['#forge:fruits/citron', {'id': '#forge:fruits/mandarin', 'required': False}, {'id': '#forge:fruits/orange', 'required': False}, {'id': '#forge:fruits/lemon', 'required': False}, {'id': '#forge:fruits/lime', 'required': False}, {'id': '#forge:fruits/grapefruit', 'required': False}, {'id': '#forge:fruits/pomelo', 'required': False}]
+
+wildberries:cranberries
+
+byg:crimson_berries
+
+rootsclassic:elderberry
+
+['minecraft:glow_berries']
+
+byg:green_apple
+
+fruitsdelight:hamimelon_slice
+
+nethers_exoticism:jaboticaba
+
+nethers_exoticism:kiwano
+
+fruitsdelight:kiwi
+
+['minecraft:melon_slice']
+
+byg:nightshade_berries
+
+nethers_exoticism:pitaya
+
+ecologics:prickly_pear
+
+nethers_exoticism:ramboutan
+
+wildberries:raspberry
+
+rootsclassic:redcurrant
+
+['delightful:salmonberries']
+
+ars_nouveau:sourceberry_bush
+
+neapolitan:strawberries
+
+['#forge:fruits/apple', '#forge:fruits/kiwi', '#forge:fruits/melon', '#forge:fruits/cantaloupe', '#forge:fruits/prickly_pear', '#forge:fruits/banana', '#forge:fruits/sweet_berries', '#forge:fruits/salmonberries', '#forge:fruits/strawberries', '#forge:fruits/cherry', '#forge:fruits/blueberries', '#forge:fruits/raspberries', '#forge:fruits/blackberries', '#forge:fruits/cranberries', '#forge:fruits/wild_berries', '#forge:fruits/rambutan', '#forge:fruits/pitaya', '#forge:fruits/jabuticaba', '#forge:fruits/kiwano', '#forge:fruits/hamimelon', {'id': '#forge:fruits/orange', 'required': False}, {'id': '#forge:fruits/mandarin', 'required': False}, {'id': '#forge:fruits/redlove', 'required': False}]
+
+['minecraft:sweet_berries']
+
+twilightforest:torchberries
+
+rootsclassic:whitecurrant
+
+windswept:wild_berries
+
+biomesoplenty:rose_quartz_chunk
+
+#deep_aether:skyjade_repairing
+
+aether:zanite_gemstone
+
+mythicbotany:alfsteel_ingot
+
+nourished_nether:necronium_ingot
+
+byg:pendorite_ingot
+
+spirit:soul_steel_ingot
+
+simplysteel:steel_ingot
+
+#deep_aether:stratus_repairing
+
+aether_redux:veridium_ingot
+
+['delightful:acorn']
+
+windswept:chestnuts
+
+#forge:peanut
+
+ecologics:walnut
+
+['minecraft:carved_pumpkin', {'id': 'autumnity:carved_large_pumpkin_slice', 'required': False}]
+
+environmental:koi
+
+spawn:tuna_chunk
+
+['delightful:cantaloupe_seeds']
+
+['delightful:salmonberry_pips']
+
+['delightful:green_tea_leaf', {'id': 'farmersrespite:green_tea_leaves', 'required': False}, {'id': 'croptopia:tea_leaves', 'required': False}]
+
+['#farmersdelight:tools/knives', {'id': 'occultism:butcher_knife', 'required': False}]
+
+#nethersdelight:tools/machetes
+
+['#forge:tools/knives', {'id': '#nethersdelight:scavenging_tools', 'required': False}]
+
+some_assembly_required:chopped_beetroot
+
+some_assembly_required:chopped_carrot
+
+#forge:grain/corn
+
+culturaldelights:cucumber
+
+['#forge:crops/ginger']
+
+some_assembly_required:sliced_onion
+
+moredelight:diced_potatoes
+
+#forge:chilipepper
+
+some_assembly_required:tomato_slices
+
+lolenderite:enderite_upgrade_smithing_template
+
+['delightful:phoenix_knife']
+
+['delightful:salmonberry_milkshake_cauldron', 'delightful:matcha_milkshake_cauldron']
+
+['delightful:wild_salmonberries', {'id': 'culturaldelights:wild_cucumbers', 'required': False}, {'id': 'culturaldelights:wild_corn', 'required': False}, {'id': 'culturaldelights:wild_eggplants', 'required': False}]
+
+['delightful:mini_melon', 'delightful:sliced_mini_melon', 'delightful:cantaloupe', 'delightful:sliced_cantaloupe', 'delightful:sliced_melon', 'delightful:sliced_pumpkin']
+
+['delightful:mini_melon', 'delightful:sliced_mini_melon', 'delightful:cantaloupe', 'delightful:sliced_cantaloupe', 'delightful:stuffed_cantaloupe_block', 'delightful:sliced_melon', 'delightful:sliced_pumpkin', 'delightful:sliced_gloomgourd', 'delightful:mendosteen_crate', 'delightful:bastion_fruit_crate', 'delightful:frostaya_crate', 'delightful:bombegranate_crate', 'delightful:green_apple_crate', 'delightful:joshua_fruit_crate', 'delightful:baobab_fruit_crate', {'id': 'culturaldelights:avocado_crate', 'required': False}, {'id': 'culturaldelights:cucumber_crate', 'required': False}, {'id': 'culturaldelights:pickle_crate', 'required': False}, {'id': 'culturaldelights:corn_cob_crate', 'required': False}, {'id': 'culturaldelights:eggplant_crate', 'required': False}, {'id': 'culturaldelights:white_eggplant_crate', 'required': False}, {'id': 'fruittrees:citrus_cabinet', 'required': False}, {'id': 'fruittrees:cherry_cabinet', 'required': False}]
+
+['delightful:acorn_sack', 'delightful:salmonberry_sack', 'delightful:blueberry_sack', 'delightful:crimson_berry_sack', 'delightful:nightshade_berry_sack', {'id': 'ars_nouveau:sourceberry_sack', 'required': False}]
+
+['delightful:basalt_cabinet', 'delightful:quartz_cabinet']
+
+['delightful:matcha_ice_cream_block', 'delightful:salmonberry_ice_cream_block']
+
+['#forge:fruits/salmonberries']
+
+['delightful:refined_glowstone_knife']
+
+['#minecraft:flowers/azalea', 'delightful:wild_salmonberries']
+
+ecologics:azalea_flower
+
+['#forge:seeds']
+
+['delightful:cactus_flesh']
+
+['delightful:matcha_ice_cream', 'delightful:salmonberry_ice_cream']
+
+['delightful:stuffed_cantaloupe', {'id': 'miners_delight:bowl_of_stuffed_squid', 'required': False}]
+
+nethers_exoticism:kiwano_peel
+
+['delightful:necronium_knife']
+
+phantasm:crystal_spike_tip
+
+['delightful:crystalline_knife']
+
+phantasm:void_crystal_block
+
+rottenleather:sweetened_chunk
+
+seeds:sharp_leaf
+
+['delightful:salmonberry_bush']
+
+['#forge:seeds/salmonberry', '#forge:seeds/cantaloupe']
+
+['#forge:bread_slices']
+
+['delightful:soul_steel_knife']
+
+['#forge:cookies', '#forge:bread_slices']
+
+twilightforest:cooked_venison
+
+twilightforest:raw_venison
+
+['delightful:cloggrum_knife']
+
+undergarden:forgotten_upgrade_smithing_template
+
+['delightful:froststeel_knife']
+
+['delightful:utherium_knife']
+
+['minecraft:ender_pearl', 'endersdelight:ender_shard']
+
+['endersdelight:enderman_sight', 'endersdelight:sight_fragment']
+
+['endersdelight:shulker_filet', 'endersdelight:shulker_mollusk']
+
+['endersdelight:endstone_stove']
+
+['ends_delight:end_stove']
+
+['ends_delight:chorus_fruit_wine', 'ends_delight:chorus_fruit_milk_tea', 'ends_delight:bubble_tea', 'ends_delight:dragon_breath_soda', 'ends_delight:chorus_flower_tea', 'ends_delight:chorus_fruit_pie']
+
+#farmersdelight:tools/knives
+
+['ends_delight:end_stove']
+
+['ends_delight:dragon_egg_shell_knife', 'ends_delight:end_stone_knife', 'ends_delight:purpur_knife', 'ends_delight:dragon_tooth_knife']
+
+['ends_delight:raw_dragon_meat_cuts', 'ends_delight:raw_dragon_meat']
+
+['ends_delight:raw_ender_mite_meat']
+
+['ends_delight:roasted_dragon_meat_cuts', 'ends_delight:roasted_dragon_meat']
+
+['ends_delight:roasted_shulker_meat', 'ends_delight:roasted_shulker_meat_slice']
+
+['ends_delight:shulker_meat', 'ends_delight:shulker_meat_slice']
+
+['ends_delight:dragon_egg_shell_knife', 'ends_delight:end_stone_knife', 'ends_delight:purpur_knife', 'ends_delight:dragon_tooth_knife']
+
+['ends_delight:chorus_fruit_crate']
+
+['ends_delight:end_stove']
+
+['farmersdelight:cutting_board', 'farmersdelight:full_tatami_mat', 'farmersdelight:half_tatami_mat']
+
+['farmersdelight:stove']
+
+['farmersdelight:milk_bottle', 'farmersdelight:hot_cocoa', 'farmersdelight:apple_cider', 'farmersdelight:melon_juice', 'farmersdelight:pie_crust', 'farmersdelight:apple_pie', 'farmersdelight:sweet_berry_cheesecake', 'farmersdelight:chocolate_pie']
+
+['farmersdelight:sandy_shrub', 'farmersdelight:brown_mushroom_colony', 'farmersdelight:red_mushroom_colony']
+
+['farmersdelight:pumpkin_slice', 'farmersdelight:rotten_tomato', 'farmersdelight:rice_panicle']
+
+['minecraft:brown_mushroom', 'minecraft:red_mushroom', 'minecraft:podzol', 'minecraft:mycelium', 'farmersdelight:organic_compost', 'farmersdelight:rich_soil', 'farmersdelight:rich_soil_farmland', 'farmersdelight:brown_mushroom_colony', 'farmersdelight:red_mushroom_colony']
+
+['minecraft:candle_cake', 'minecraft:white_candle_cake', 'minecraft:orange_candle_cake', 'minecraft:magenta_candle_cake', 'minecraft:light_blue_candle_cake', 'minecraft:yellow_candle_cake', 'minecraft:lime_candle_cake', 'minecraft:pink_candle_cake', 'minecraft:gray_candle_cake', 'minecraft:light_gray_candle_cake', 'minecraft:cyan_candle_cake', 'minecraft:purple_candle_cake', 'minecraft:blue_candle_cake', 'minecraft:brown_candle_cake', 'minecraft:green_candle_cake', 'minecraft:red_candle_cake', 'minecraft:black_candle_cake']
+
+['minecraft:hopper', {'id': 'create:chute', 'required': False}]
+
+['minecraft:magma_block', 'minecraft:lava_cauldron', 'farmersdelight:stove', '#farmersdelight:tray_heat_sources']
+
+['farmersdelight:rich_soil']
+
+['farmersdelight:rope', {'id': 'quark:rope', 'required': False}, {'id': 'supplementaries:rope', 'required': False}]
+
+['farmersdelight:rice_bag', 'farmersdelight:rope', 'farmersdelight:safety_net', 'farmersdelight:canvas_rug', 'farmersdelight:tatami', 'farmersdelight:full_tatami_mat', 'farmersdelight:half_tatami_mat']
+
+['#minecraft:dirt', '#minecraft:sand']
+
+['minecraft:lava', '#minecraft:campfires', '#minecraft:fire']
+
+['minecraft:grass_block', 'minecraft:grass', 'minecraft:fern', 'minecraft:twisting_vines', 'minecraft:twisting_vines_plant', 'farmersdelight:sandy_shrub', 'farmersdelight:brown_mushroom_colony', 'farmersdelight:red_mushroom_colony', '#farmersdelight:wild_crops']
+
+['farmersdelight:wild_carrots', 'farmersdelight:wild_potatoes', 'farmersdelight:wild_beetroots', 'farmersdelight:wild_cabbages', 'farmersdelight:wild_tomatoes', 'farmersdelight:wild_onions', 'farmersdelight:wild_rice']
+
+['minecraft:cobweb', 'minecraft:cake', 'farmersdelight:apple_pie', 'farmersdelight:sweet_berry_cheesecake', 'farmersdelight:chocolate_pie', 'farmersdelight:roast_chicken_block', 'farmersdelight:honey_glazed_ham_block', 'farmersdelight:shepherds_pie_block', 'farmersdelight:rice_roll_medley_block', '#minecraft:wool_carpets', '#minecraft:wool', '#minecraft:candle_cakes', '#farmersdelight:straw_blocks', '#forge:mineable/knife']
+
+['minecraft:wolf']
+
+['minecraft:horse', 'minecraft:donkey', 'minecraft:mule']
+
+['minecraft:horse', 'minecraft:skeleton_horse', 'minecraft:zombie_horse', 'minecraft:donkey', 'minecraft:mule', 'minecraft:llama']
+
+['#forge:raw_pork', '#forge:raw_fishes', '#forge:raw_chicken', '#forge:raw_beef', '#forge:raw_mutton', '#forge:eggs', '#forge:mushrooms', 'minecraft:carrot', 'minecraft:potato', 'minecraft:beetroot']
+
+['#farmersdelight:cabinets/wooden']
+
+['farmersdelight:canvas_sign', 'farmersdelight:white_canvas_sign', 'farmersdelight:orange_canvas_sign', 'farmersdelight:magenta_canvas_sign', 'farmersdelight:light_blue_canvas_sign', 'farmersdelight:yellow_canvas_sign', 'farmersdelight:lime_canvas_sign', 'farmersdelight:pink_canvas_sign', 'farmersdelight:gray_canvas_sign', 'farmersdelight:light_gray_canvas_sign', 'farmersdelight:cyan_canvas_sign', 'farmersdelight:purple_canvas_sign', 'farmersdelight:blue_canvas_sign', 'farmersdelight:brown_canvas_sign', 'farmersdelight:green_canvas_sign', 'farmersdelight:red_canvas_sign', 'farmersdelight:black_canvas_sign']
+
+['minecraft:trident', 'minecraft:spyglass', {'id': 'supplementaries:quiver', 'required': False}, {'id': 'autumnity:turkey', 'required': False}, {'id': 'autumnity:cooked_turkey', 'required': False}]
+
+['farmersdelight:hanging_canvas_sign', 'farmersdelight:white_hanging_canvas_sign', 'farmersdelight:orange_hanging_canvas_sign', 'farmersdelight:magenta_hanging_canvas_sign', 'farmersdelight:light_blue_hanging_canvas_sign', 'farmersdelight:yellow_hanging_canvas_sign', 'farmersdelight:lime_hanging_canvas_sign', 'farmersdelight:pink_hanging_canvas_sign', 'farmersdelight:gray_hanging_canvas_sign', 'farmersdelight:light_gray_hanging_canvas_sign', 'farmersdelight:cyan_hanging_canvas_sign', 'farmersdelight:purple_hanging_canvas_sign', 'farmersdelight:blue_hanging_canvas_sign', 'farmersdelight:brown_hanging_canvas_sign', 'farmersdelight:green_hanging_canvas_sign', 'farmersdelight:red_hanging_canvas_sign', 'farmersdelight:black_hanging_canvas_sign']
+
+['minecraft:shield', {'id': 'create:extendo_grip', 'required': False}]
+
+['minecraft:bowl', 'minecraft:glass_bottle', 'minecraft:bucket']
+
+['#farmersdelight:tools/knives']
+
+['farmersdelight:wild_carrots', 'farmersdelight:wild_potatoes', 'farmersdelight:wild_beetroots', 'farmersdelight:wild_cabbages', 'farmersdelight:wild_tomatoes', 'farmersdelight:wild_onions', 'farmersdelight:wild_rice']
+
+['#forge:raw_chicken', '#forge:raw_mutton', 'minecraft:rabbit']
+
+['farmersdelight:oak_cabinet', 'farmersdelight:spruce_cabinet', 'farmersdelight:birch_cabinet', 'farmersdelight:jungle_cabinet', 'farmersdelight:acacia_cabinet', 'farmersdelight:dark_oak_cabinet', 'farmersdelight:mangrove_cabinet', 'farmersdelight:cherry_cabinet', 'farmersdelight:bamboo_cabinet', 'farmersdelight:crimson_cabinet', 'farmersdelight:warped_cabinet']
+
+['farmersdelight:flint_knife', 'farmersdelight:iron_knife', 'farmersdelight:diamond_knife', 'farmersdelight:golden_knife', 'farmersdelight:netherite_knife']
+
+[]
+
+['minecraft:sweet_berries', 'minecraft:glow_berries']
+
+['#forge:bread/wheat']
+
+['farmersdelight:cooked_bacon']
+
+['minecraft:cooked_beef', 'farmersdelight:beef_patty']
+
+['minecraft:cooked_chicken', 'farmersdelight:cooked_chicken_cuts']
+
+['farmersdelight:fried_egg']
+
+['#forge:cooked_fishes/cod', '#forge:cooked_fishes/salmon']
+
+['minecraft:cooked_mutton', 'farmersdelight:cooked_mutton_chops']
+
+['minecraft:cooked_porkchop', 'farmersdelight:cooked_bacon']
+
+['#forge:crops/cabbage', '#forge:crops/onion', '#forge:crops/rice', '#forge:crops/tomato']
+
+['farmersdelight:wheat_dough']
+
+['minecraft:egg']
+
+['#forge:grain/wheat', '#forge:grain/rice']
+
+['#forge:milk/milk', '#forge:milk/milk_bottle']
+
+['#forge:pasta/raw_pasta']
+
+['farmersdelight:bacon']
+
+['minecraft:beef', 'farmersdelight:minced_beef']
+
+['minecraft:chicken', 'farmersdelight:chicken_cuts']
+
+['#forge:raw_fishes/cod', '#forge:raw_fishes/salmon', '#forge:raw_fishes/tropical_fish']
+
+['minecraft:mutton', 'farmersdelight:mutton_chops']
+
+['minecraft:porkchop', 'farmersdelight:bacon']
+
+['#forge:salad_ingredients/cabbage']
+
+['#forge:seeds/cabbage', '#forge:seeds/rice', '#forge:seeds/tomato']
+
+['#forge:tools/axes', '#forge:tools/knives', '#forge:tools/pickaxes', '#forge:tools/shovels']
+
+['#forge:vegetables/beetroot', '#forge:vegetables/carrot', '#forge:vegetables/onion', '#forge:vegetables/potato', '#forge:vegetables/tomato']
+
+['minecraft:bread']
+
+['minecraft:cooked_cod', 'farmersdelight:cooked_cod_slice']
+
+['minecraft:cooked_salmon', 'farmersdelight:cooked_salmon_slice']
+
+['farmersdelight:cabbage', 'farmersdelight:cabbage_leaf']
+
+['farmersdelight:onion']
+
+['farmersdelight:rice']
+
+['farmersdelight:tomato']
+
+['farmersdelight:wheat_dough']
+
+['farmersdelight:rice']
+
+['minecraft:wheat']
+
+['minecraft:milk_bucket']
+
+['farmersdelight:milk_bottle']
+
+['farmersdelight:raw_pasta']
+
+['minecraft:cod', 'farmersdelight:cod_slice']
+
+['minecraft:salmon', 'farmersdelight:salmon_slice']
+
+['minecraft:tropical_fish']
+
+['farmersdelight:cabbage', 'farmersdelight:cabbage_leaf']
+
+['farmersdelight:cabbage_seeds']
+
+['farmersdelight:rice']
+
+['farmersdelight:tomato_seeds']
+
+['minecraft:wooden_axe', 'minecraft:stone_axe', 'minecraft:iron_axe', 'minecraft:diamond_axe', 'minecraft:golden_axe', 'minecraft:netherite_axe']
+
+['farmersdelight:flint_knife', 'farmersdelight:iron_knife', 'farmersdelight:diamond_knife', 'farmersdelight:golden_knife', 'farmersdelight:netherite_knife']
+
+['minecraft:wooden_pickaxe', 'minecraft:stone_pickaxe', 'minecraft:iron_pickaxe', 'minecraft:diamond_pickaxe', 'minecraft:golden_pickaxe', 'minecraft:netherite_pickaxe']
+
+['minecraft:wooden_shovel', 'minecraft:stone_shovel', 'minecraft:iron_shovel', 'minecraft:diamond_shovel', 'minecraft:golden_shovel', 'minecraft:netherite_shovel']
+
+['minecraft:beetroot']
+
+['minecraft:carrot']
+
+['farmersdelight:onion']
+
+['minecraft:potato']
+
+['farmersdelight:tomato']
+
+['farmersdelight:rich_soil']
+
+['farmersdelight:hanging_canvas_sign', 'farmersdelight:white_hanging_canvas_sign', 'farmersdelight:orange_hanging_canvas_sign', 'farmersdelight:magenta_hanging_canvas_sign', 'farmersdelight:light_blue_hanging_canvas_sign', 'farmersdelight:yellow_hanging_canvas_sign', 'farmersdelight:lime_hanging_canvas_sign', 'farmersdelight:pink_hanging_canvas_sign', 'farmersdelight:gray_hanging_canvas_sign', 'farmersdelight:light_gray_hanging_canvas_sign', 'farmersdelight:cyan_hanging_canvas_sign', 'farmersdelight:purple_hanging_canvas_sign', 'farmersdelight:blue_hanging_canvas_sign', 'farmersdelight:brown_hanging_canvas_sign', 'farmersdelight:green_hanging_canvas_sign', 'farmersdelight:red_hanging_canvas_sign', 'farmersdelight:black_hanging_canvas_sign']
+
+['farmersdelight:rope', 'farmersdelight:tomatoes']
+
+['farmersdelight:cabbages', 'farmersdelight:onions', 'farmersdelight:rice_panicles', 'farmersdelight:budding_tomatoes', 'farmersdelight:tomatoes']
+
+['farmersdelight:rich_soil']
+
+['farmersdelight:organic_compost', 'farmersdelight:rich_soil']
+
+['farmersdelight:sandy_shrub']
+
+['farmersdelight:sandy_shrub']
+
+['farmersdelight:wild_carrots', 'farmersdelight:wild_potatoes', 'farmersdelight:wild_beetroots', 'farmersdelight:wild_cabbages', 'farmersdelight:wild_tomatoes', 'farmersdelight:wild_onions']
+
+['farmersdelight:canvas_sign', 'farmersdelight:white_canvas_sign', 'farmersdelight:orange_canvas_sign', 'farmersdelight:magenta_canvas_sign', 'farmersdelight:light_blue_canvas_sign', 'farmersdelight:yellow_canvas_sign', 'farmersdelight:lime_canvas_sign', 'farmersdelight:pink_canvas_sign', 'farmersdelight:gray_canvas_sign', 'farmersdelight:light_gray_canvas_sign', 'farmersdelight:cyan_canvas_sign', 'farmersdelight:purple_canvas_sign', 'farmersdelight:blue_canvas_sign', 'farmersdelight:brown_canvas_sign', 'farmersdelight:green_canvas_sign', 'farmersdelight:red_canvas_sign', 'farmersdelight:black_canvas_sign']
+
+['farmersdelight:wild_rice']
+
+['farmersdelight:wall_hanging_canvas_sign', 'farmersdelight:white_wall_hanging_canvas_sign', 'farmersdelight:orange_wall_hanging_canvas_sign', 'farmersdelight:magenta_wall_hanging_canvas_sign', 'farmersdelight:light_blue_wall_hanging_canvas_sign', 'farmersdelight:yellow_wall_hanging_canvas_sign', 'farmersdelight:lime_wall_hanging_canvas_sign', 'farmersdelight:pink_wall_hanging_canvas_sign', 'farmersdelight:gray_wall_hanging_canvas_sign', 'farmersdelight:light_gray_wall_hanging_canvas_sign', 'farmersdelight:cyan_wall_hanging_canvas_sign', 'farmersdelight:purple_wall_hanging_canvas_sign', 'farmersdelight:blue_wall_hanging_canvas_sign', 'farmersdelight:brown_wall_hanging_canvas_sign', 'farmersdelight:green_wall_hanging_canvas_sign', 'farmersdelight:red_wall_hanging_canvas_sign', 'farmersdelight:black_wall_hanging_canvas_sign']
+
+['farmersdelight:canvas_wall_sign', 'farmersdelight:white_canvas_wall_sign', 'farmersdelight:orange_canvas_wall_sign', 'farmersdelight:magenta_canvas_wall_sign', 'farmersdelight:light_blue_canvas_wall_sign', 'farmersdelight:yellow_canvas_wall_sign', 'farmersdelight:lime_canvas_wall_sign', 'farmersdelight:pink_canvas_wall_sign', 'farmersdelight:gray_canvas_wall_sign', 'farmersdelight:light_gray_canvas_wall_sign', 'farmersdelight:cyan_canvas_wall_sign', 'farmersdelight:purple_canvas_wall_sign', 'farmersdelight:blue_canvas_wall_sign', 'farmersdelight:brown_canvas_wall_sign', 'farmersdelight:green_canvas_wall_sign', 'farmersdelight:red_canvas_wall_sign', 'farmersdelight:black_canvas_wall_sign']
+
+['farmersdelight:basket', 'farmersdelight:cutting_board', 'farmersdelight:carrot_crate', 'farmersdelight:potato_crate', 'farmersdelight:beetroot_crate', 'farmersdelight:cabbage_crate', 'farmersdelight:tomato_crate', 'farmersdelight:onion_crate', 'farmersdelight:oak_cabinet', 'farmersdelight:birch_cabinet', 'farmersdelight:spruce_cabinet', 'farmersdelight:jungle_cabinet', 'farmersdelight:acacia_cabinet', 'farmersdelight:dark_oak_cabinet', 'farmersdelight:mangrove_cabinet', 'farmersdelight:cherry_cabinet', 'farmersdelight:bamboo_cabinet', 'farmersdelight:crimson_cabinet', 'farmersdelight:warped_cabinet', 'farmersdelight:sandy_shrub', 'farmersdelight:stuffed_pumpkin_block']
+
+['farmersdelight:rice_bale', 'farmersdelight:straw_bale']
+
+['farmersdelight:stove', 'farmersdelight:cooking_pot', 'farmersdelight:skillet']
+
+['farmersdelight:organic_compost', 'farmersdelight:rich_soil', 'farmersdelight:rich_soil_farmland']
+
+['farmersdelight:golden_knife']
+
+['farmersdelight:wild_carrots', 'farmersdelight:wild_potatoes', 'farmersdelight:wild_beetroots', 'farmersdelight:wild_cabbages', 'farmersdelight:wild_tomatoes', 'farmersdelight:wild_onions']
+
+['farmersdelight:wild_rice']
+
+['farmersdelight:fried_egg', 'farmersdelight:cod_slice', 'farmersdelight:cooked_cod_slice', 'farmersdelight:salmon_slice', 'farmersdelight:cooked_salmon_slice', 'farmersdelight:bacon_and_eggs']
+
+['farmersdelight:cabbages', 'farmersdelight:onions', 'farmersdelight:rice', 'farmersdelight:rice_panicles']
+
+['farmersdelight:onions']
+
+['farmersdelight:budding_tomatoes', 'farmersdelight:tomatoes', 'farmersdelight:rice', 'farmersdelight:rice_panicles']
+
+['farmersdelight:onions']
+
+['farmersdelight:cabbages']
+
+['farmersdelight:cabbage_seeds', 'farmersdelight:onion', 'farmersdelight:rice']
+
+['farmersdelight:onion']
+
+['farmersdelight:tomato_seeds', 'farmersdelight:rice']
+
+['farmersdelight:cabbage_seeds']
+
+['farmersdelight:onion']
+
+['maturidelight:takoyaki_maker', 'maturidelight:plate']
+
+['nethersdelight:blackstone_stove', 'nethersdelight:blackstone_furnace', 'nethersdelight:nether_brick_smoker', 'nethersdelight:blackstone_blast_furnace']
+
+['nethersdelight:crimson_fungus_colony', 'nethersdelight:warped_fungus_colony']
+
+['nethersdelight:propelplant_cane', 'nethersdelight:propelplant_stem', 'nethersdelight:propelplant_berry_stem', 'nethersdelight:propelplant_berry_cane']
+
+['nethersdelight:hoglin_loin']
+
+['nethersdelight:rich_soul_soil']
+
+['nethersdelight:potted_mimicarnation']
+
+['nethersdelight:soul_compost', 'nethersdelight:rich_soul_soil']
+
+['nethersdelight:mimicarnation']
+
+['farmersdelight:wild_rice']
+
+['nethersdelight:hoglin_trophy']
+
+['nethersdelight:blackstone_stove', 'nethersdelight:blackstone_furnace', 'nethersdelight:nether_brick_smoker', 'nethersdelight:blackstone_blast_furnace']
+
+['nethersdelight:soul_compost', 'nethersdelight:rich_soul_soil']
+
+['nethersdelight:hoglin_loin', 'nethersdelight:hoglin_sirloin']
+
+['nethersdelight:hoglin_hide', 'nethersdelight:raw_stuffed_hoglin', 'nethersdelight:stuffed_hoglin', 'nethersdelight:golden_machete']
+
+['nethersdelight:mimicarnation']
+
+['nethersdelight:soul_compost', 'nethersdelight:rich_soul_soil']
+
+['nethersdelight:rich_soul_soil']
+
+['minecraft:crimson_fungus', 'minecraft:warped_fungus', 'minecraft:bone_block', 'minecraft:nether_wart', 'nethersdelight:soul_compost', 'nethersdelight:crimson_fungus_colony', 'nethersdelight:warped_fungus_colony', 'nethersdelight:rich_soul_soil']
+
+['minecraft:lantern', 'minecraft:soul_lantern', 'minecraft:fire', 'minecraft:soul_fire', 'minecraft:campfire', 'minecraft:soul_campfire']
+
+['minecraft:mushroom_stew', 'minecraft:beetroot_soup', 'minecraft:rabbit_stew', 'minecraft:suspicious_stew', 'farmersdelight:tomato_sauce', 'farmersdelight:fruit_salad', 'farmersdelight:mixed_salad', 'farmersdelight:nether_salad', 'farmersdelight:cooked_rice', 'farmersdelight:beef_stew', 'farmersdelight:chicken_soup', 'farmersdelight:vegetable_soup', 'farmersdelight:fish_stew', 'farmersdelight:fried_rice', 'farmersdelight:pumpkin_soup', 'farmersdelight:baked_cod_stew', 'farmersdelight:noodle_soup', 'farmersdelight:bacon_and_eggs', 'farmersdelight:pasta_with_meatballs', 'farmersdelight:pasta_with_mutton_chop', 'farmersdelight:roasted_mutton_chops', 'farmersdelight:vegetable_noodles', 'farmersdelight:steak_and_potatoes', 'farmersdelight:ratatouille', 'farmersdelight:squid_ink_pasta', 'farmersdelight:grilled_salmon', 'farmersdelight:roast_chicken', 'farmersdelight:stuffed_pumpkin', 'farmersdelight:stuffed_potato', 'farmersdelight:honey_glazed_ham', 'farmersdelight:shepherds_pie', 'nethersdelight:warped_moldy_meat', 'nethersdelight:grilled_strider', 'nethersdelight:strider_moss_stew', 'nethersdelight:plate_of_stuffed_hoglin_snout', 'nethersdelight:plate_of_stuffed_hoglin_ham', 'nethersdelight:plate_of_stuffed_hoglin_roast']
+
+['nethersdelight:strider_slice', 'nethersdelight:ground_strider']
+
+['minecraft:cobblestone', 'minecraft:cobbled_deepslate']
+
+['#nethersdelight:tools/machetes', '#farmersdelight:tools/knives']
+
+['nethersdelight:iron_machete', 'nethersdelight:golden_machete', 'nethersdelight:diamond_machete', 'nethersdelight:netherite_machete']
+
+['oceansdelight:fugu_roll', 'oceansdelight:elder_guardian_roll', 'oceansdelight:squid_rings']
+
+['oceansdelight:fugu_roll', 'oceansdelight:fugu_slice', 'oceansdelight:stuffed_cod', 'oceansdelight:braised_sea_pickle', 'oceansdelight:cabbage_wrapped_elder_guardian', 'oceansdelight:cooked_stuffed_cod', 'oceansdelight:elder_guardian_roll', 'oceansdelight:cooked_elder_guardian_slice', 'oceansdelight:elder_guardian_slice', 'oceansdelight:elder_guardian_slab', 'oceansdelight:bowl_of_guardian_soup', 'oceansdelight:cooked_guardian_tail', 'oceansdelight:guardian_tail', 'oceansdelight:baked_tentacle_on_a_stick', 'oceansdelight:tentacle_on_a_stick', 'oceansdelight:squid_rings', 'oceansdelight:cut_tentacles', 'oceansdelight:tentacles']
+
+['oceansdelight:honey_fried_kelp']
+
+['oceansdelight:honey_fried_kelp', 'oceansdelight:cooked_stuffed_cod', 'oceansdelight:stuffed_cod', 'oceansdelight:braised_sea_pickle', 'oceansdelight:cabbage_wrapped_elder_guardian', 'oceansdelight:bowl_of_guardian_soup', 'oceansdelight:seagrass_salad']
+
+['oceansdelight:guardian_soup']
+
+['seasonals:pumpkin_candle_cake', 'seasonals:white_pumpkin_candle_cake', 'seasonals:orange_pumpkin_candle_cake', 'seasonals:magenta_pumpkin_candle_cake', 'seasonals:light_blue_pumpkin_candle_cake', 'seasonals:yellow_pumpkin_candle_cake', 'seasonals:lime_pumpkin_candle_cake', 'seasonals:pink_pumpkin_candle_cake', 'seasonals:gray_pumpkin_candle_cake', 'seasonals:light_gray_pumpkin_candle_cake', 'seasonals:cyan_pumpkin_candle_cake', 'seasonals:purple_pumpkin_candle_cake', 'seasonals:blue_pumpkin_candle_cake', 'seasonals:brown_pumpkin_candle_cake', 'seasonals:green_pumpkin_candle_cake', 'seasonals:red_pumpkin_candle_cake', 'seasonals:black_pumpkin_candle_cake', 'seasonals:sweet_berry_candle_cake', 'seasonals:white_sweet_berry_candle_cake', 'seasonals:orange_sweet_berry_candle_cake', 'seasonals:magenta_sweet_berry_candle_cake', 'seasonals:light_blue_sweet_berry_candle_cake', 'seasonals:yellow_sweet_berry_candle_cake', 'seasonals:lime_sweet_berry_candle_cake', 'seasonals:pink_sweet_berry_candle_cake', 'seasonals:gray_sweet_berry_candle_cake', 'seasonals:light_gray_sweet_berry_candle_cake', 'seasonals:cyan_sweet_berry_candle_cake', 'seasonals:purple_sweet_berry_candle_cake', 'seasonals:blue_sweet_berry_candle_cake', 'seasonals:brown_sweet_berry_candle_cake', 'seasonals:green_sweet_berry_candle_cake', 'seasonals:red_sweet_berry_candle_cake', 'seasonals:black_sweet_berry_candle_cake', 'seasonals:beetroot_candle_cake', 'seasonals:white_beetroot_candle_cake', 'seasonals:orange_beetroot_candle_cake', 'seasonals:magenta_beetroot_candle_cake', 'seasonals:light_blue_beetroot_candle_cake', 'seasonals:yellow_beetroot_candle_cake', 'seasonals:lime_beetroot_candle_cake', 'seasonals:pink_beetroot_candle_cake', 'seasonals:gray_beetroot_candle_cake', 'seasonals:light_gray_beetroot_candle_cake', 'seasonals:cyan_beetroot_candle_cake', 'seasonals:purple_beetroot_candle_cake', 'seasonals:blue_beetroot_candle_cake', 'seasonals:brown_beetroot_candle_cake', 'seasonals:green_beetroot_candle_cake', 'seasonals:red_beetroot_candle_cake', 'seasonals:black_beetroot_candle_cake']
+
+['seasonals:pumpkin_milkshake_cauldron', 'seasonals:sweet_berry_milkshake_cauldron', 'seasonals:beetroot_milkshake_cauldron']
+
+['seasonals:pumpkin_ice_cream_block', 'seasonals:sweet_berry_ice_cream_block', 'seasonals:beetroot_ice_cream_block']
+
+['seasonals:pumpkin_ice_cream', 'seasonals:sweet_berry_ice_cream', 'seasonals:beetroot_ice_cream']
+
+['minecraft:thorns', 'minecraft:cactus', 'minecraft:sweet_berry_bush']
+
+['silentsdelight:sculk_catalyst_pie', 'silentsdelight:sculk_catalyst_pie_slice', 'silentsdelight:sculk_catalyst_pie_crust']
+
+['silentsdelight:warden_ear', 'silentsdelight:cut_warden_ear', 'silentsdelight:warden_ear_on_a_stick', 'silentsdelight:baked_warden_ear_on_a_stick', 'silentsdelight:warden_ear_fried_rice', 'silentsdelight:sculk_sensor_tendril', 'silentsdelight:sculk_sensor_tendril_roll', 'silentsdelight:sculk_sensor_tendril_roll_slice', 'silentsdelight:sculk_sensor_sprinkles', 'silentsdelight:sculk_barbecue_stick', 'silentsdelight:sculk_soup', 'silentsdelight:warden_heart', 'silentsdelight:minced_warden_heart', 'silentsdelight:warden_heart_patty', 'silentsdelight:heartburger']
+
+['silentsdelight:sculk_shrieker_shake', 'silentsdelight:sculk_sensor_sprinkles']
+
+['silentsdelight:sculk_vein_salad', 'silentsdelight:sculk_sensor_tendril_roll', 'silentsdelight:sculk_sensor_tendril_roll_slice', 'silentsdelight:sculk_vein_salad', 'silentsdelight:heartburger']
+
+['twilightdelight:mushgloom_colony']
+
+['twilightdelight:maze_stove', 'twilightforest:fiery_block']
+
+['twilightdelight:mushgloom_colony']
+
+['twilightdelight:ironwood_knife', 'twilightdelight:steeleaf_knife', 'twilightdelight:knightmetal_knife', 'twilightdelight:fiery_knife']
+
+['twilightforest:firefly', 'twilightforest:cicada', 'twilightforest:moonworm']
+
+['minecraft:milk_bucket']
+
+['twilightdelight:ironwood_knife', 'twilightdelight:steeleaf_knife', 'twilightdelight:knightmetal_knife', 'twilightdelight:fiery_knife']
+
+twilightdelight:aurora_candle_cake
+
+['twilightdelight:ironwood_leaves']
+
+['twilightdelight:ironwood_log']
+
+['twilightdelight:ironwood_log']
+
+['twilightdelight:ironwood_log', 'twilightdelight:ironwood_leaves']
+
+['twilightdelight:ironwood_sapling']
+
+['twilightdelight:twilight_oak_cabinet', 'twilightdelight:canopy_cabinet', 'twilightdelight:dark_cabinet', 'twilightdelight:mangrove_cabinet', 'twilightdelight:mining_cabinet', 'twilightdelight:sorting_cabinet', 'twilightdelight:time_cabinet', 'twilightdelight:transformation_cabinet', 'twilightdelight:ironwood_log']
+
+['twilightdelight:ironwood_leaves']
+
+['twilightdelight:maze_stove']
+
+['twilightdelight:thorn_rose_tea']
+
+['twilightdelight:thorn_rose_tea']
+
+['twilightdelight:thorn_rose_tea']
+
+['twilightdelight:thorn_rose_tea']
+
+['twilightdelight:ironwood_leaves']
+
+['twilightdelight:ironwood_log']
+
+['twilightdelight:ironwood_log']
+
+['twilightdelight:ironwood_sapling']
+
+['twilightdelight:teardrop_sword']
+
+['twilightforest:hydra_chop', 'twilightdelight:hydra_piece']
+
+['twilightforest:cooked_meef', 'twilightdelight:cooked_meef_slice']
+
+['twilightforest:raw_meef', 'twilightdelight:raw_meef_slice']
+
+['twilightforest:cooked_venison', 'twilightdelight:cooked_venison_rib']
+
+['twilightforest:raw_venison', 'twilightdelight:raw_venison_rib']
+
+undergardendelight:cloggrum_knife
+
+undergarden:blisterberry
+
+undergarden:underbeans
+
+undergardendelight:cloggrum_knife
+
+undergardendelight:cloggrum_knife
+
+undergardendelight:frosteel_knife
+
+undergardendelight:utherium_knife
+
+#undergarden:rotspawn
+
+#undergarden:rotspawn
+
+undergarden:blood_mushroom_globule
+
+undergarden:dweller_steak
+
+undergarden:raw_dweller_meat
+
+['vintagedelight:cheese_wheel', 'vintagedelight:pepper_jam_bottle', 'vintagedelight:relish_bottle', 'vintagedelight:apple_sauce_bottle', 'vintagedelight:sweet_berry_jam_bottle', 'vintagedelight:glow_berry_jam_bottle', 'vintagedelight:gearo_berry_jam_bottle', 'vintagedelight:pepper_jam_mason_jar', 'vintagedelight:relish_mason_jar', 'vintagedelight:apple_sauce_mason_jar', 'vintagedelight:sweet_berry_mason_jar', 'vintagedelight:glow_berry_mason_jar', 'vintagedelight:gearo_berry_mason_jar', 'vintagedelight:honey_mason_jar', 'vintagedelight:vinegar_bottle', 'vintagedelight:vinegar_mason_jar', 'vintagedelight:mason_jar']
+
+['vintagedelight:ghost_pepper', 'vintagedelight:ghost_charcoal']
+
+['vintagedelight:cucumber', 'vintagedelight:peanut', 'vintagedelight:oat', 'vintagedelight:ghost_pepper']
+
+['vintagedelight:gearo_berry']
+
+['vintagedelight:oat', 'vintagedelight:raw_oats']
+
+['vintagedelight:peanut', 'vintagedelight:cheese_curds', 'vintagedelight:cheese_slice', 'vintagedelight:century_egg']
+
+['vintagedelight:ghost_pepper', 'vintagedelight:cucumber']
+
+['vintagedelight:gearo_berry']
+
+['vintagedelight:cheese_slice']
+
+['vintagedelight:ghost_pepper']
+
+['vintagedelight:cucumber']
+
+['vintagedelight:oat_dough']
+
+['#forge:fruits/gearo_berry']
+
+['vintagedelight:gearo_berry']
+
+['vintagedelight:nut_milk_bottle']
+
+['vintagedelight:oat']
+
+['vintagedelight:cucumber_noodles']
+
+['vintagedelight:peanut']
+
+['#forge:protein/peanut']
+
+['vintagedelight:salt_dust']
+
+['#forge:vegetables/ghost_pepper', '#forge:vegetables/peanut', '#forge:vegetables/cucumber']
+
+['vintagedelight:gearo_berry']
+
+['vintagedelight:peanut']
+
+['vintagedelight:cucumber']
+
+['vintagedelight:ghost_pepper']
+
+['vintagedelight:peanut']
+
+['vintagedelight:lush_grass_block']
+
+['vintagedelight:magic_vine', 'vintagedelight:magic_vine_block']
+
+['vintagedelight:oat_crop', 'vintagedelight:ghost_pepper_crop', 'vintagedelight:cucumber_crop', 'vintagedelight:peanut_crop']
+
+['vintagedelight:lush_grass_block']
+
+['vintagedelight:oat_crop', 'vintagedelight:ghost_pepper_crop', 'vintagedelight:cucumber_crop', 'vintagedelight:peanut_crop']
+
+['vintagedelight:lush_grass_block']
+
+['vintagedelight:vine_tile']
+
+['vintagedelight:lush_grass_block']
+
+['vintagedelight:salt_brick_wall', 'vintagedelight:mixed_salt_brick_wall']
+
+['vintagedelight:vine_tile_slab']
+
+['vintagedelight:vine_tile_stairs']
+
+['vintagedelight:cucumber_crate', 'vintagedelight:ghost_pepper_crate', 'vintagedelight:peanut_crate', 'vintagedelight:magic_vine', 'vintagedelight:stripped_magic_vine', 'vintagedelight:magic_vine_block', 'vintagedelight:stripped_magic_vine_block', 'vintagedelight:vine_tile', 'vintagedelight:vine_tile_stairs', 'vintagedelight:vine_tile_slab']
+
+['vintagedelight:oat_bag', 'vintagedelight:oat_bale']
+
+['vintagedelight:salt_lamp_default', 'vintagedelight:salt_lamp_red', 'vintagedelight:salt_lamp_orange', 'vintagedelight:salt_lamp_yellow', 'vintagedelight:salt_lamp_green', 'vintagedelight:salt_lamp_blue', 'vintagedelight:salt_lamp_purple', 'vintagedelight:salt_lamp_pink', 'vintagedelight:salt_lamp_white', 'vintagedelight:salt_lamp_black', 'vintagedelight:salt_lamp_gray', 'vintagedelight:salt_lamp_brown', 'vintagedelight:salt_lamp_cyan', 'vintagedelight:salt_lamp_light_blue', 'vintagedelight:salt_lamp_lime', 'vintagedelight:salt_lamp_magenta', 'vintagedelight:salt_lamp_light_gray', 'vintagedelight:salt_bricks', 'vintagedelight:salt_brick_slab', 'vintagedelight:salt_brick_stairs', 'vintagedelight:salt_brick_wall', 'vintagedelight:mixed_salt_bricks', 'vintagedelight:mixed_salt_brick_slab', 'vintagedelight:mixed_salt_brick_stairs', 'vintagedelight:mixed_salt_brick_wall', 'vintagedelight:smooth_salt_block', 'vintagedelight:salt_pillar', 'vintagedelight:evaporator', 'vintagedelight:golden_egg', 'vintagedelight:cheese_mold']
+
+['vintagedelight:lush_grass_block', 'vintagedelight:salt', 'vintagedelight:salt_block']
+
+['vintagedelight:gearo_berry']
+
+['vintagedelight:magic_peanut']
+
+['vintagedelight:wild_ghost_peppers', 'vintagedelight:wild_oats', 'vintagedelight:wild_peanuts', 'vintagedelight:wild_cucumbers']
+
+['vintagedelight:black_chefs_hat', 'vintagedelight:blue_chefs_hat', 'vintagedelight:brown_chefs_hat', 'vintagedelight:cyan_chefs_hat', 'vintagedelight:gray_chefs_hat', 'vintagedelight:green_chefs_hat', 'vintagedelight:light_blue_chefs_hat', 'vintagedelight:light_gray_chefs_hat', 'vintagedelight:lime_chefs_hat', 'vintagedelight:magenta_chefs_hat', 'vintagedelight:orange_chefs_hat', 'vintagedelight:pink_chefs_hat', 'vintagedelight:purple_chefs_hat', 'vintagedelight:red_chefs_hat', 'vintagedelight:white_chefs_hat', 'vintagedelight:yellow_chefs_hat']
+
+['minecraft:glass_bottle', 'minecraft:bowl', 'minecraft:bucket', 'vintagedelight:mason_jar']
+
+['vintagedelight:pepper_jam_bottle', 'vintagedelight:relish_bottle', 'vintagedelight:apple_sauce_bottle', 'vintagedelight:sweet_berry_jam_bottle', 'vintagedelight:glow_berry_jam_bottle', 'vintagedelight:gearo_berry_jam_bottle', 'minecraft:honey_bottle']
+
+['vintagedelight:pepper_jam_mason_jar', 'vintagedelight:relish_mason_jar', 'vintagedelight:apple_sauce_mason_jar', 'vintagedelight:sweet_berry_mason_jar', 'vintagedelight:glow_berry_mason_jar', 'vintagedelight:gearo_berry_mason_jar', 'vintagedelight:honey_mason_jar']
+
+['vintagedelight:magic_vine', 'vintagedelight:stripped_magic_vine', 'vintagedelight:magic_vine_block', 'vintagedelight:stripped_magic_vine_block']
+
+['minecraft:cod', 'minecraft:salmon', 'minecraft:tropical_fish']
+
+['vintagedelight:salt_lamp_default', 'vintagedelight:salt_lamp_red', 'vintagedelight:salt_lamp_orange', 'vintagedelight:salt_lamp_yellow', 'vintagedelight:salt_lamp_green', 'vintagedelight:salt_lamp_blue', 'vintagedelight:salt_lamp_purple', 'vintagedelight:salt_lamp_pink', 'vintagedelight:salt_lamp_white', 'vintagedelight:salt_lamp_black', 'vintagedelight:salt_lamp_gray', 'vintagedelight:salt_lamp_brown', 'vintagedelight:salt_lamp_cyan', 'vintagedelight:salt_lamp_light_blue', 'vintagedelight:salt_lamp_lime', 'vintagedelight:salt_lamp_magenta', 'vintagedelight:salt_lamp_light_gray']
+
+['vintagedelight:pepper_jam_mason_jar', 'vintagedelight:relish_mason_jar']
+
+['vintagedelight:pepper_jam_bottle', 'vintagedelight:relish_bottle', 'minecraft:honey_bottle']
+
+['minecraft:vine', 'minecraft:grass', 'minecraft:fern', 'minecraft:large_fern', 'minecraft:tall_grass', 'minecraft:seagrass', 'minecraft:sea_pickle', 'minecraft:sugar_cane', '#minecraft:saplings', '#minecraft:flowers']
+
+['vintagedelight:apple_sauce_mason_jar', 'vintagedelight:sweet_berry_mason_jar', 'vintagedelight:glow_berry_mason_jar', 'vintagedelight:gearo_berry_mason_jar', 'vintagedelight:honey_jar']
+
+['vintagedelight:apple_sauce_bottle', 'vintagedelight:sweet_berry_jam_bottle', 'vintagedelight:glow_berry_jam_bottle', 'vintagedelight:gearo_berry_jam_bottle']
+
+['minecraft:beach', 'minecraft:snowy_beach', 'minecraft:stony_shore']
+
+['youkaishomecoming:cirno_wings']
+
+['youkaishomecoming:candy_apple', 'youkaishomecoming:avgolemono', 'youkaishomecoming:peach_tapioca', 'youkaishomecoming:peach_yatsuhashi']
+
+['youkaishomecoming:mochi', 'youkaishomecoming:tsukimi_dango', 'youkaishomecoming:coffee_mochi', 'youkaishomecoming:matcha_mochi', 'youkaishomecoming:sakura_mochi', 'youkaishomecoming:yashouma_dango', 'youkaishomecoming:onigili', 'youkaishomecoming:senbei', 'youkaishomecoming:sekibankiyaki', 'youkaishomecoming:yakumo_inari', 'youkaishomecoming:bun', 'youkaishomecoming:oyaki', 'youkaishomecoming:pork_rice_ball', 'youkaishomecoming:tobiko_gunkan', 'youkaishomecoming:tutu_congee', 'youkaishomecoming:doughnut', 'youkaishomecoming:higi_doughnut', 'youkaishomecoming:kinako_dango', 'youkaishomecoming:mitarashi_dango', 'youkaishomecoming:assorted_dango', 'youkaishomecoming:shaved_ice_over_rice', 'youkaishomecoming:blazing_red_curry', 'youkaishomecoming:grilled_eel_over_rice', 'youkaishomecoming:longevity_noodles', 'youkaishomecoming:sweet_ormosia_mochi_mixed_boiled', 'youkaishomecoming:flesh_dumplings', 'youkaishomecoming:flesh_roll', 'youkaishomecoming:peach_yatsuhashi']
+
+['youkaishomecoming:raw_lamprey', 'youkaishomecoming:roasted_lamprey', 'youkaishomecoming:raw_lamprey_fillet', 'youkaishomecoming:roasted_lamprey_fillet', 'youkaishomecoming:flesh', 'youkaishomecoming:cooked_flesh', 'youkaishomecoming:roe', 'youkaishomecoming:pork_rice_ball', 'youkaishomecoming:tobiko_gunkan', 'youkaishomecoming:steamed_egg_in_bamboo', 'youkaishomecoming:apaki', 'youkaishomecoming:blazing_red_curry', 'youkaishomecoming:grilled_eel_over_rice', 'youkaishomecoming:longevity_noodles', 'youkaishomecoming:seafood_miso_soup', 'youkaishomecoming:power_soup', 'youkaishomecoming:shirayuki', 'youkaishomecoming:tuscan_salmon', 'youkaishomecoming:lions_head', 'youkaishomecoming:mapo_tofu', 'youkaishomecoming:flesh_dumplings', 'youkaishomecoming:flesh_roll', 'youkaishomecoming:canned_flesh', 'youkaishomecoming:flesh_stew', 'youkaishomecoming:bowl_of_flesh_feast', 'youkaishomecoming:flesh_chocolate_mousse', 'youkaishomecoming:scarlet_devil_cake']
+
+['youkaishomecoming:koishi_mousse', 'youkaishomecoming:higi_chocolate', 'youkaishomecoming:higi_doughnut', 'youkaishomecoming:fairy_candy', 'youkaishomecoming:candy_apple', 'youkaishomecoming:milk_popsicle', 'youkaishomecoming:big_popsicle', 'youkaishomecoming:flesh_chocolate_mousse', 'youkaishomecoming:scarlet_devil_cake']
+
+['youkaishomecoming:cooked_mandrake_root', 'youkaishomecoming:blazing_red_curry', 'youkaishomecoming:higan_soup', 'youkaishomecoming:longevity_noodles', 'youkaishomecoming:miso_soup', 'youkaishomecoming:seafood_miso_soup', 'youkaishomecoming:poor_god_soup', 'youkaishomecoming:power_soup', 'youkaishomecoming:shirayuki', 'youkaishomecoming:tuscan_salmon', 'youkaishomecoming:mushroom_soup', 'youkaishomecoming:lions_head', 'youkaishomecoming:udumbara_cake', 'youkaishomecoming:bowl_of_heart_throbbing_surprise', 'youkaishomecoming:flesh_stew']
+
+['youkaishomecoming:wild_soybean', 'youkaishomecoming:wild_redbean', 'youkaishomecoming:wild_coffea', 'youkaishomecoming:wild_tea', 'youkaishomecoming:wild_udumbara', 'youkaishomecoming:wild_mandrake']
+
+['youkaishomecoming:raw_lamprey_fillet']
+
+['youkaishomecoming:wild_soybean', 'youkaishomecoming:wild_redbean', 'youkaishomecoming:wild_coffea', 'youkaishomecoming:wild_tea', 'youkaishomecoming:wild_udumbara', 'youkaishomecoming:wild_mandrake']
+
+['youkaishomecoming:danmaku', 'youkaishomecoming:abyssal_danmaku']
+
+['youkaishomecoming:matcha', {'id': 'delightful:matcha', 'required': False}]
+
+['youkaishomecoming:soybean', 'youkaishomecoming:redbean', 'youkaishomecoming:green_coffee_bean', 'youkaishomecoming:tea_seeds', 'youkaishomecoming:udumbara_seeds', 'youkaishomecoming:mandrake_root']
+
+['youkaishomecoming:tea_leaves', '#forge:tea_leaves/green', '#forge:tea_leaves/black', '#forge:tea_leaves/white', '#forge:tea_leaves/oolong']
+
+['youkaishomecoming:suwako_hat', 'youkaishomecoming:koishi_hat', 'youkaishomecoming:rumia_hairband', 'youkaishomecoming:reimu_hairband', 'youkaishomecoming:cirno_hairband']
+
+['youkaishomecoming:black_tea_leaves']
+
+['youkaishomecoming:green_tea_leaves']
+
+['youkaishomecoming:oolong_tea_leaves']
+
+['youkaishomecoming:white_tea_leaves']
+
+['youkaishomecoming:red_velvet_candle_cake', 'youkaishomecoming:white_red_velvet_candle_cake', 'youkaishomecoming:orange_red_velvet_candle_cake', 'youkaishomecoming:magenta_red_velvet_candle_cake', 'youkaishomecoming:light_blue_red_velvet_candle_cake', 'youkaishomecoming:yellow_red_velvet_candle_cake', 'youkaishomecoming:lime_red_velvet_candle_cake', 'youkaishomecoming:pink_red_velvet_candle_cake', 'youkaishomecoming:gray_red_velvet_candle_cake', 'youkaishomecoming:light_gray_red_velvet_candle_cake', 'youkaishomecoming:cyan_red_velvet_candle_cake', 'youkaishomecoming:purple_red_velvet_candle_cake', 'youkaishomecoming:blue_red_velvet_candle_cake', 'youkaishomecoming:brown_red_velvet_candle_cake', 'youkaishomecoming:green_red_velvet_candle_cake', 'youkaishomecoming:red_red_velvet_candle_cake', 'youkaishomecoming:black_red_velvet_candle_cake']
+
+['youkaishomecoming:fine_grid_framed_shoji']
+
+['youkaishomecoming:sikkui_slab', 'youkaishomecoming:cross_framed_sikkui_slab']
+
+['youkaishomecoming:sikkui_stairs', 'youkaishomecoming:cross_framed_sikkui_stairs']
+
+['youkaishomecoming:sikkui_trap_door', 'youkaishomecoming:framed_sikkui_trap_door', 'youkaishomecoming:cross_framed_sikkui_trap_door', 'youkaishomecoming:grid_framed_sikkui_trap_door', 'youkaishomecoming:fine_grid_framed_sikkui_trap_door']
+
+['youkaishomecoming:hay_slab', 'youkaishomecoming:straw_slab']
+
+['youkaishomecoming:hay_stairs', 'youkaishomecoming:straw_stairs']
+
+['youkaishomecoming:hay_trap_door', 'youkaishomecoming:straw_trap_door']
+
+['youkaishomecoming:drying_rack', 'youkaishomecoming:fermentation_tank', 'youkaishomecoming:moon_lantern', 'youkaishomecoming:sikkui_trap_door', 'youkaishomecoming:sikkui_stairs', 'youkaishomecoming:sikkui_slab', 'youkaishomecoming:sikkui_vertical_slab', 'youkaishomecoming:framed_sikkui_trap_door', 'youkaishomecoming:cross_framed_sikkui_trap_door', 'youkaishomecoming:cross_framed_sikkui_stairs', 'youkaishomecoming:cross_framed_sikkui_slab', 'youkaishomecoming:cross_framed_sikkui_vertical_slab', 'youkaishomecoming:grid_framed_sikkui_trap_door', 'youkaishomecoming:fine_grid_framed_sikkui', 'youkaishomecoming:fine_grid_framed_sikkui_trap_door', 'youkaishomecoming:fine_grid_framed_shoji', 'youkaishomecoming:hay_stairs', 'youkaishomecoming:hay_slab', 'youkaishomecoming:hay_trap_door', 'youkaishomecoming:hay_vertical_slab', 'youkaishomecoming:straw_stairs', 'youkaishomecoming:straw_slab', 'youkaishomecoming:straw_trap_door', 'youkaishomecoming:straw_vertical_slab', 'youkaishomecoming:oak_handrail', 'youkaishomecoming:oak_dining_table', 'youkaishomecoming:oak_dining_chair', 'youkaishomecoming:birch_handrail', 'youkaishomecoming:birch_dining_table', 'youkaishomecoming:birch_dining_chair', 'youkaishomecoming:spruce_handrail', 'youkaishomecoming:spruce_dining_table', 'youkaishomecoming:spruce_dining_chair', 'youkaishomecoming:jungle_handrail', 'youkaishomecoming:jungle_dining_table', 'youkaishomecoming:jungle_dining_chair', 'youkaishomecoming:dark_oak_handrail', 'youkaishomecoming:dark_oak_dining_table', 'youkaishomecoming:dark_oak_dining_chair', 'youkaishomecoming:acacia_handrail', 'youkaishomecoming:acacia_dining_table', 'youkaishomecoming:acacia_dining_chair', 'youkaishomecoming:crimson_handrail', 'youkaishomecoming:crimson_dining_table', 'youkaishomecoming:crimson_dining_chair', 'youkaishomecoming:warped_handrail', 'youkaishomecoming:warped_dining_table', 'youkaishomecoming:warped_dining_chair', 'youkaishomecoming:mangrove_handrail', 'youkaishomecoming:mangrove_dining_table', 'youkaishomecoming:mangrove_dining_chair', 'youkaishomecoming:cherry_handrail', 'youkaishomecoming:cherry_dining_table', 'youkaishomecoming:cherry_dining_chair', 'youkaishomecoming:bamboo_handrail', 'youkaishomecoming:bamboo_dining_table', 'youkaishomecoming:bamboo_dining_chair']
+
+['youkaishomecoming:moka_pot', 'youkaishomecoming:kettle', 'youkaishomecoming:moka_kit', 'youkaishomecoming:sikkui_trap_door', 'youkaishomecoming:framed_sikkui_trap_door', 'youkaishomecoming:cross_framed_sikkui_trap_door', 'youkaishomecoming:grid_framed_sikkui_trap_door', 'youkaishomecoming:fine_grid_framed_sikkui', 'youkaishomecoming:fine_grid_framed_sikkui_trap_door', 'youkaishomecoming:fine_grid_framed_shoji']
+
+['youkaishomecoming:sikkui', 'youkaishomecoming:sikkui_stairs', 'youkaishomecoming:sikkui_slab', 'youkaishomecoming:sikkui_vertical_slab', 'youkaishomecoming:framed_sikkui', 'youkaishomecoming:cross_framed_sikkui', 'youkaishomecoming:cross_framed_sikkui_stairs', 'youkaishomecoming:cross_framed_sikkui_slab', 'youkaishomecoming:cross_framed_sikkui_vertical_slab', 'youkaishomecoming:grid_framed_sikkui']
+
+['youkaishomecoming:danmaku', 'youkaishomecoming:abyssal_danmaku']
+
+['youkaishomecoming:danmaku', 'youkaishomecoming:abyssal_danmaku']
+
+['youkaishomecoming:koishi_attack', 'youkaishomecoming:rumia_attack', 'youkaishomecoming:abyssal_danmaku']
+
+['youkaishomecoming:koishi_attack', 'youkaishomecoming:rumia_attack', 'youkaishomecoming:abyssal_danmaku']
+
+['youkaishomecoming:koishi_attack', 'youkaishomecoming:rumia_attack', 'youkaishomecoming:abyssal_danmaku']
+
+['youkaishomecoming:danmaku', 'youkaishomecoming:abyssal_danmaku']
+
+['youkaishomecoming:fine_grid_framed_shoji']
+
+['youkaishomecoming:raw_lamprey']
+
+['youkaishomecoming:sikkui_slab', 'youkaishomecoming:cross_framed_sikkui_slab']
+
+['youkaishomecoming:sikkui_stairs', 'youkaishomecoming:cross_framed_sikkui_stairs']
+
+['youkaishomecoming:sikkui_trap_door', 'youkaishomecoming:framed_sikkui_trap_door', 'youkaishomecoming:cross_framed_sikkui_trap_door', 'youkaishomecoming:grid_framed_sikkui_trap_door', 'youkaishomecoming:fine_grid_framed_sikkui_trap_door']
+
+['youkaishomecoming:hay_slab', 'youkaishomecoming:straw_slab']
+
+['youkaishomecoming:hay_stairs', 'youkaishomecoming:straw_stairs']
+
+['youkaishomecoming:hay_trap_door', 'youkaishomecoming:straw_trap_door']
+
+['youkaishomecoming:soybean']
+
+['youkaishomecoming:tea']
+
+['youkaishomecoming:coffea']
+
+['youkaishomecoming:redbean']
+
+['youkaishomecoming:soybean']
+
+['youkaishomecoming:tea_seeds']
+
+['youkaishomecoming:green_coffee_bean']
+
+['youkaishomecoming:redbean']
+
+['minecraft:podzol', 'minecraft:mud', 'minecraft:soul_soil']
+
+['minecraft:clay', 'minecraft:mud', 'minecraft:coarse_dirt']
+
+['youkaishomecoming:danmaku', 'youkaishomecoming:abyssal_danmaku']
+
+['minecraft:creeper']
+
+['minecraft:piglin', 'minecraft:piglin_brute']
+
+['minecraft:skeleton', 'minecraft:stray']
+
+['minecraft:wither_skeleton', 'minecraft:wither']
+
+['minecraft:zombie', 'minecraft:zombie_villager', 'minecraft:husk', 'minecraft:drowned']
+
+['minecraft:evoker', 'minecraft:pillager', 'minecraft:vindicator', 'minecraft:illusioner', 'minecraft:witch', 'minecraft:villager', 'minecraft:wandering_trader', 'minecraft:player']
+
+['minecraft:ender_dragon']
+
+['youkaishomecoming:flesh', 'youkaishomecoming:cooked_flesh', 'youkaishomecoming:flesh_roll', 'youkaishomecoming:canned_flesh', 'youkaishomecoming:flesh_stew', 'youkaishomecoming:bowl_of_flesh_feast']
+
+['youkaishomecoming:white_ball_danmaku', 'youkaishomecoming:orange_ball_danmaku', 'youkaishomecoming:magenta_ball_danmaku', 'youkaishomecoming:light_blue_ball_danmaku', 'youkaishomecoming:yellow_ball_danmaku', 'youkaishomecoming:lime_ball_danmaku', 'youkaishomecoming:pink_ball_danmaku', 'youkaishomecoming:gray_ball_danmaku', 'youkaishomecoming:light_gray_ball_danmaku', 'youkaishomecoming:cyan_ball_danmaku', 'youkaishomecoming:purple_ball_danmaku', 'youkaishomecoming:blue_ball_danmaku', 'youkaishomecoming:brown_ball_danmaku', 'youkaishomecoming:green_ball_danmaku', 'youkaishomecoming:red_ball_danmaku', 'youkaishomecoming:black_ball_danmaku']
+
+['youkaishomecoming:white_bubble_danmaku', 'youkaishomecoming:orange_bubble_danmaku', 'youkaishomecoming:magenta_bubble_danmaku', 'youkaishomecoming:light_blue_bubble_danmaku', 'youkaishomecoming:yellow_bubble_danmaku', 'youkaishomecoming:lime_bubble_danmaku', 'youkaishomecoming:pink_bubble_danmaku', 'youkaishomecoming:gray_bubble_danmaku', 'youkaishomecoming:light_gray_bubble_danmaku', 'youkaishomecoming:cyan_bubble_danmaku', 'youkaishomecoming:purple_bubble_danmaku', 'youkaishomecoming:blue_bubble_danmaku', 'youkaishomecoming:brown_bubble_danmaku', 'youkaishomecoming:green_bubble_danmaku', 'youkaishomecoming:red_bubble_danmaku', 'youkaishomecoming:black_bubble_danmaku']
+
+['youkaishomecoming:white_butterfly_danmaku', 'youkaishomecoming:orange_butterfly_danmaku', 'youkaishomecoming:magenta_butterfly_danmaku', 'youkaishomecoming:light_blue_butterfly_danmaku', 'youkaishomecoming:yellow_butterfly_danmaku', 'youkaishomecoming:lime_butterfly_danmaku', 'youkaishomecoming:pink_butterfly_danmaku', 'youkaishomecoming:gray_butterfly_danmaku', 'youkaishomecoming:light_gray_butterfly_danmaku', 'youkaishomecoming:cyan_butterfly_danmaku', 'youkaishomecoming:purple_butterfly_danmaku', 'youkaishomecoming:blue_butterfly_danmaku', 'youkaishomecoming:brown_butterfly_danmaku', 'youkaishomecoming:green_butterfly_danmaku', 'youkaishomecoming:red_butterfly_danmaku', 'youkaishomecoming:black_butterfly_danmaku']
+
+['youkaishomecoming:white_circle_danmaku', 'youkaishomecoming:orange_circle_danmaku', 'youkaishomecoming:magenta_circle_danmaku', 'youkaishomecoming:light_blue_circle_danmaku', 'youkaishomecoming:yellow_circle_danmaku', 'youkaishomecoming:lime_circle_danmaku', 'youkaishomecoming:pink_circle_danmaku', 'youkaishomecoming:gray_circle_danmaku', 'youkaishomecoming:light_gray_circle_danmaku', 'youkaishomecoming:cyan_circle_danmaku', 'youkaishomecoming:purple_circle_danmaku', 'youkaishomecoming:blue_circle_danmaku', 'youkaishomecoming:brown_circle_danmaku', 'youkaishomecoming:green_circle_danmaku', 'youkaishomecoming:red_circle_danmaku', 'youkaishomecoming:black_circle_danmaku']
+
+['youkaishomecoming:mochi', 'youkaishomecoming:tsukimi_dango', 'youkaishomecoming:coffee_mochi', 'youkaishomecoming:matcha_mochi', 'youkaishomecoming:sakura_mochi', 'youkaishomecoming:yashouma_dango']
+
+['youkaishomecoming:flesh', 'youkaishomecoming:cooked_flesh', 'youkaishomecoming:scarlet_tea', 'youkaishomecoming:flesh_dumplings', 'youkaishomecoming:flesh_roll', 'youkaishomecoming:canned_flesh', 'youkaishomecoming:flesh_stew', 'youkaishomecoming:bowl_of_flesh_feast', 'youkaishomecoming:flesh_chocolate_mousse', 'youkaishomecoming:scarlet_devil_cake', 'youkaishomecoming:red_velvet_cake_slice', 'youkaishomecoming:scarlet_mist']
+
+['youkaishomecoming:white_laser', 'youkaishomecoming:orange_laser', 'youkaishomecoming:magenta_laser', 'youkaishomecoming:light_blue_laser', 'youkaishomecoming:yellow_laser', 'youkaishomecoming:lime_laser', 'youkaishomecoming:pink_laser', 'youkaishomecoming:gray_laser', 'youkaishomecoming:light_gray_laser', 'youkaishomecoming:cyan_laser', 'youkaishomecoming:purple_laser', 'youkaishomecoming:blue_laser', 'youkaishomecoming:brown_laser', 'youkaishomecoming:green_laser', 'youkaishomecoming:red_laser', 'youkaishomecoming:black_laser']
+
+['youkaishomecoming:white_mentos_danmaku', 'youkaishomecoming:orange_mentos_danmaku', 'youkaishomecoming:magenta_mentos_danmaku', 'youkaishomecoming:light_blue_mentos_danmaku', 'youkaishomecoming:yellow_mentos_danmaku', 'youkaishomecoming:lime_mentos_danmaku', 'youkaishomecoming:pink_mentos_danmaku', 'youkaishomecoming:gray_mentos_danmaku', 'youkaishomecoming:light_gray_mentos_danmaku', 'youkaishomecoming:cyan_mentos_danmaku', 'youkaishomecoming:purple_mentos_danmaku', 'youkaishomecoming:blue_mentos_danmaku', 'youkaishomecoming:brown_mentos_danmaku', 'youkaishomecoming:green_mentos_danmaku', 'youkaishomecoming:red_mentos_danmaku', 'youkaishomecoming:black_mentos_danmaku']
+
+['youkaishomecoming:raw_lamprey', 'youkaishomecoming:raw_lamprey_fillet']
+
+['youkaishomecoming:flesh']
+
+['youkaishomecoming:suwako_hat', 'youkaishomecoming:koishi_hat', 'youkaishomecoming:rumia_hairband', 'youkaishomecoming:reimu_hairband', 'youkaishomecoming:cirno_hairband']
+
+['youkaishomecoming:cirno_wings']
+
+['minecraft:cherry_grove']
+
+['minecraft:plains', '#minecraft:is_forest']
+
+['minecraft:river', 'minecraft:frozen_river', 'minecraft:plains', 'minecraft:snowy_plains', 'minecraft:snowy_beach']
+
+['#minecraft:is_jungle']
+
+['minecraft:river', 'minecraft:frozen_river', 'minecraft:ocean', 'minecraft:cold_ocean', 'minecraft:frozen_ocean', 'minecraft:deep_ocean', 'minecraft:deep_cold_ocean', 'minecraft:deep_frozen_ocean']
+
+['minecraft:dark_forest']
+
+['minecraft:sunflower_plains', 'minecraft:bamboo_jungle', 'minecraft:old_growth_birch_forest', 'minecraft:birch_forest']
+
+['minecraft:jungle', 'minecraft:dark_forest', 'minecraft:swamp']
+
+['minecraft:flower_forest', 'minecraft:meadow', 'minecraft:cherry_grove', 'minecraft:grove']
+
+['minecraft:swamp']
+
